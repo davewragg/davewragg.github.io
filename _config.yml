@@ -48,7 +48,7 @@ location:           The Nebulous South-East, UK
 email:              dave@davewragg.com
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
