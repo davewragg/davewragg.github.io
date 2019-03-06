@@ -7,14 +7,22 @@ sitemap:
     lastmod: 2019-03-02
     changefreq: weekly
 ---
+<span class="image right"><img src="{{ "/images/my-goddam-face.jpg" | absolute_url }}" alt="" /></span>
 ## About me
 
 I'm Dave Wragg. Hello. I'm from the UK, and have had many jobs. Most of them involved computers. I'm quite old now, and I live in Hertfordshire. Yes, I have cats.
+
+## Contact me
+
+You can find me on Twitter at <a href="https://www.twitter.com/itsdavewragg">@itsdavewragg</a>. For anything rights-related, I'm represented by <a href="http://www.dhhliteraryagency.com/harry-illingworth.html">Harry Illingworth</a> at the DHH Literary Agency. For anything else, try the form at the bottom of the page.
 
 ## FAQ
 
 Are you the same David Wragg who writes military histories?
 > No
+
+Are you Dave or David?
+> Depends who you ask. I'll answer to either.
 
 When is the Black Hawks out?
 > August 2019
