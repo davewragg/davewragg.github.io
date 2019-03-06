@@ -10,7 +10,7 @@ sitemap:
 <span class="image right"><img src="{{ "/images/my-goddam-face.jpg" | absolute_url }}" alt="" /></span>
 ## About me
 
-I'm Dave Wragg. Hello. I'm from the UK, and have had many jobs. Most of them involved computers. I'm quite old now, and I live in Hertfordshire. Yes, I have cats.
+I'm Dave Wragg. Hello. I'm from the UK, and have had many jobs. Most of them involved computers. I'm getting on a bit now, and I live in Hertfordshire. Yes, I have cats.
 
 ## Contact me
 
