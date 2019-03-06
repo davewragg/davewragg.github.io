@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Web Presence"
+title:  Incipient web presence
 date:   2019-02-28
 excerpt: "Welcome to the 20th Century"
 image: "/images/web-presence.jpg"
@@ -12,9 +12,8 @@ There's a contact form, if you want to get in touch to tell me something isn't w
 
 Anyway. Hi.
 
-I can't promise regular updates on here, but I'll do what I can to add useful information as and when there is some. In the meantime, the first book has been announced (as has the sequel, planned for Summer 2020), and pre-order links are up on Amazon and Waterstones. If you know of any others (hello nice indies!), give me a shout and I'll add them in here.
+I can't promise frequent updates on here, but I'll do what I can to add useful information as and when there is some. In the meantime, the first book has been announced (as has the sequel, planned for Summer 2020), and pre-order links are up on Amazon and Waterstones. If you know of any others (hello nice indies!), give me a shout and I'll add them in here.
 
 Unless the contact form isn't working, in which case etc and so on
-
 
 Dave
