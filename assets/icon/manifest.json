@@ -1,0 +1,14 @@
+{
+    "name": "davewragg.com",
+    "icons": [
+        {
+            "src": "/assets/icon/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "theme_color": "#291e1c",
+    "background_color": "#291e1c",
+    "display": "standalone"
+}

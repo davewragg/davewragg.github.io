@@ -1,0 +1,65 @@
+# Site
+title:              davewragg.com
+bio:                'Fantasist. Goes on a bit.'
+description:        "The website of David Wragg, who does books"
+locale:             en_GB
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.davewragg.com" # the base hostname & protocol for your site
+background_image:   /images/bg.jpg
+# Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
+formspree_thankyou_page: /thank-you
+
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/blog/:title/"
+    layout: post
+    author:
+
+# Jekyll
+permalink:          /blog/:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
+
+# Comments
+disqus_shortname:   default
+
+# Social
+analytics-id:       "UA-135684249-1"
+facebook:           default
+twitter:            itsdavewragg
+instagram:          default
+github:             default
+
+# personal
+location:           The Nebulous South-East, UK
+email:              dave@davewragg.com
+
+# Gems
+plugins:
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+paginate: 6
+paginate_path: "/blog/page:num/"
+
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old, .idea]
