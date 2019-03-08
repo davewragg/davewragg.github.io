@@ -7,7 +7,7 @@ sitemap:
     lastmod: 2019-03-02
     changefreq: weekly
 ---
-<span class="image right"><img src="{{ "/images/my-goddam-face.jpg" | absolute_url }}" alt="author photo (c) LSJ Roberts" />
+<span class="image right face"><img src="{{ "/images/my-goddam-face.jpg" | absolute_url }}" alt="author photo (c) LSJ Roberts" />
 <sup>&copy; LSJ Roberts</sup></span>
 ## About me
 
