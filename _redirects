@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://upbeat-newton-491bba.netlify.com/* http://www.davewragg.com/:splat 301!
