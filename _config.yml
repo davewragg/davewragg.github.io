@@ -4,7 +4,7 @@ bio:                'Fantasist. Goes on a bit.'
 description:        "The website of David Wragg, who does books"
 locale:             en_GB
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.davewragg.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 background_image:   /images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 formspree_thankyou_page: /thank-you

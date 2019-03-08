@@ -7,7 +7,7 @@ sitemap:
     lastmod: 2019-03-02
     changefreq: monthly
 ---
-<span class="image left"><img src="{{ "/images/black-hawks-cover.jpg" | absolute_url }}" alt="The Black Hawks cover" /></span>
+<span class="image left book"><img src="{{ "/images/black-hawks-cover.jpg" | absolute_url }}" alt="The Black Hawks cover" /></span>
 
 ## The Black Hawks (Aug 2019)
 
