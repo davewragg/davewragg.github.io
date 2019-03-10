@@ -2,6 +2,7 @@
 layout: page
 title: davewragg.com | Books
 description: A compendium of published work
+image: /images/black-hawks-cover.jpg
 sitemap:
     priority: 0.9
     lastmod: 2019-03-02
