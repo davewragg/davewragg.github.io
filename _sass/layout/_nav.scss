@@ -82,4 +82,30 @@
 		@include breakpoint(medium) {
 			display: none;
 		}
+
+		.pointer {
+			cursor: pointer;
+		}
+
+		.share-buttons {
+			display: none;
+		}
+
+		.share-btn {
+			border-radius: 3px;
+
+			&:hover {
+				opacity: .85;
+				color: #fff;
+			}
+		}
+
+		.share-btn.tw {
+			background: #1da1f2;
+		}
+
+		.share-btn.fb {
+			background: #3b5998;
+			margin: 0 8px;
+		}
 	}
