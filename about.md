@@ -2,6 +2,7 @@
 layout: page
 title: davewragg.com | About
 description: If you are curious, God help you
+image: /images/my-goddam-face.jpg
 sitemap:
     priority: 0.7
     lastmod: 2019-03-02

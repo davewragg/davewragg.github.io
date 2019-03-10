@@ -144,6 +144,8 @@
 
 {% if page.excerpt %}
 <meta name="twitter:description" content="{{ page.excerpt }}">
+{% elsif page.description %}
+<meta name="twitter:description" content="{{ page.description }}">
 {% else %}
 <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
