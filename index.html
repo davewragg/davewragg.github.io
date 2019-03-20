@@ -1,6 +1,6 @@
 ---
 layout: null
-title: davewragg.com | HOME
+title: HOME
 description: Welcome to the website of Dave Wragg, who does books
 sitemap:
     priority: 1.0
@@ -73,7 +73,7 @@ sitemap:
   										<span class="date">{{ post.date | date_to_string }}</span>
   										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
   									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="Magnificent post illustration" /></a>
+									{% picture lazy {{ post.image }} --alt Magnificent post illustration --link {{ post.url | absolute_url }} --a class="image fit" %}
   									<p>{{ post.excerpt }}</p>
   									<ul class="actions">
   										<li><a href="{{ post.url | absolute_url }}" class="button">Read more</a></li>

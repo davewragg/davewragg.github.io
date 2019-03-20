@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: davewragg.com | Blog
+title: Blog
 description: The blogroll
 sitemap:
     priority: 1.0
