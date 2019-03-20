@@ -60,6 +60,8 @@ plugins:
   - jekyll-paginate
   - jekyll-netlify
   - jekyll-seo-tag
+  - liquid_pluralize
+  - liquid_reading_time
 
 paginate: 6
 paginate_path: "/blog/page:num/"
