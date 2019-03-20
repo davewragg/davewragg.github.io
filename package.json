@@ -4,7 +4,9 @@
   "description": "Webcontent for the website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "bundle exec jekyll serve",
+    "build": "bundle exec jekyll build",
+    "index": "echo ALGOLIA_API_KEY='%ALGOLIA_API_KEY%' && bundle exec jekyll algolia"
   },
   "repository": {
     "type": "git",

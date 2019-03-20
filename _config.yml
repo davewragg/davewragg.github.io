@@ -72,5 +72,9 @@ jekyll-mentions:
 picture:
   nomarkdown: false
 
+algolia:
+  application_id: JJPHC9VXHC
+  index_name:     davewragg.com
+
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old, .idea]
