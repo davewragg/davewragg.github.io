@@ -1,7 +1,6 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<title>{{ page.title }}</title>
 <meta name="description" content="{{ page.description }}">
 
 <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/icon/apple-touch-icon.png" | absolute_url }}">
@@ -134,28 +133,4 @@
     }( typeof global !== "undefined" ? global : this ) );
 </script>
 
-<!-- Twitter cards -->
-<meta name="twitter:site"    content="@{{ site.twitter }}">
-{% if page.author %}
-<meta name="twitter:creator" content="@{{ page.author }}">
-{% else %}
-<meta name="twitter:creator" content="@{{ page.twitter }}">
-{% endif %}
-<meta name="twitter:title"   content="{{ page.title }}">
-
-{% if page.excerpt %}
-<meta name="twitter:description" content="{{ page.excerpt }}">
-{% elsif page.description %}
-<meta name="twitter:description" content="{{ page.description }}">
-{% else %}
-<meta name="twitter:description" content="{{ site.description }}">
-{% endif %}
-
-{% if page.image %}
-<meta name="twitter:card"  content="summary_large_image">
-<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
-{% else %}
-<meta name="twitter:card"  content="summary">
-<meta name="twitter:image" content="{{ site.url }}{{ site.background_image }}">
-{% endif %}
-<!-- end of Twitter cards -->
+{% seo %}

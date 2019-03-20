@@ -3,6 +3,7 @@ title:              davewragg.com
 bio:                'Fantasist. Goes on a bit.'
 description:        "The website of David Wragg, who does books"
 locale:             en_GB
+lang:             en_GB
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.davewragg.com" # the base hostname & protocol for your site
 background_image:   /images/bg.jpg
@@ -17,6 +18,7 @@ defaults:
     permalink: "/blog/:title/"
     layout: post
     author:
+      twitter: itsdavewragg
 
 # Jekyll
 permalink:          /blog/:title/
@@ -39,7 +41,9 @@ disqus_shortname:   default
 # Social
 analytics-id:       "UA-135684249-1"
 facebook:           default
-twitter:            itsdavewragg
+twitter:
+  username: itsdavewragg
+  card: summary
 instagram:          default
 github:             default
 
@@ -55,6 +59,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-netlify
+  - jekyll-seo-tag
 
 paginate: 6
 paginate_path: "/blog/page:num/"

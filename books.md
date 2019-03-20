@@ -1,6 +1,6 @@
 ---
 layout: page
-title: davewragg.com | Books
+title: Books
 description: A compendium of published work
 image: /images/black-hawks-cover.jpg
 sitemap:

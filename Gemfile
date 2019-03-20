@@ -6,6 +6,7 @@ gem "jekyll-gist"
 gem 'jekyll-mentions'
 gem 'jekyll-feed'
 gem 'jekyll-paginate'
+gem 'jekyll-seo-tag'
 
 group :jekyll_plugins do
   gem "jekyll-netlify", git: 'https://github.com/jayvdb/jekyll-netlify'
