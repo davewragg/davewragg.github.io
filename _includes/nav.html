@@ -6,7 +6,7 @@
 </ul>
 
 <ul class="icons">
-  <li><a href="{{ "/feed.xml" | absolute_url }}" class="icon fa-rss" rel="nofollow"><span class="label" title="RSS feed">RSS feed</span></a></li>
+  <li><a rel="alternate" type="application/rss+xml" href="{{ "/feed.xml" | absolute_url }}" class="icon fa-rss" rel="nofollow"><span class="label" title="RSS feed">RSS feed</span></a></li>
   <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow" title="Twitter"><span class="label">Twitter</span></a></li>
   <li><a onclick="share('{{ page.title }}', '{{ page.description }}', '{{ page.url | absolute_url }}')" class="icon fa-share pointer" rel="nofollow" title="Share"><span class="label">Share</span></a></li>
 <!--  <li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
