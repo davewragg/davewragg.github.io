@@ -1,0 +1,84 @@
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@3.32.1/dist/algoliasearchLite.js" integrity="sha256-pMaJf0I78weeXGkRMBDO6jSulxC/q3sb0aPdtV2N8n0=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@3.2.0" integrity="sha256-/8usMtTwZ01jujD7KAZctG0UMk2S2NDNirGFVBbBZCM=" crossorigin="anonymous"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.1.1/themes/reset-min.css" integrity="sha256-JQ2nnTmybhOWSjfV3sa8mG0ZVhTCcORER4cyXc5HL10=" crossorigin="anonymous">
+
+<script>
+    const search = instantsearch({
+        indexName: '{{ site.algolia.index_name }}',
+        searchClient: algoliasearch('{{ site.algolia.application_id }}', '{{ site.algolia.search_only_api_key }}'),
+        routing: true
+    });
+
+    search.addWidgets([
+        instantsearch.widgets.searchBox({
+            container: '#search-searchbar',
+            showSubmit: false,
+            showReset: false,
+            placeholder: 'Search posts...',
+        }),
+        instantsearch.widgets.poweredBy({
+            container: '#powered-by',
+        }),
+        instantsearch.widgets.analytics({
+            pushFunction(formattedParameters, state, results) {
+                window.ga('set', 'page', window.location.pathname + window.location.search);
+                window.ga('send', 'pageView');
+            },
+        })
+    ]);
+
+    const hitTemplate = function(hit) {
+        const url = `{{ site.baseurl }}${hit.url}#${hit.anchor}`;
+        const title = hit._highlightResult.title.value;
+        const content = hit._highlightResult.html.value;
+
+        return `
+        <div class="post-item">
+          <h3><a class="post-link" href="${url}">${title}</a></h3>
+          <div class="post-snippet"> {{#helpers.highlight}}${content}{{/helpers.highlight}}</div>
+        </div>
+      `;
+    };
+
+    search.addWidget(
+        instantsearch.widgets.hits({
+            container: '#search-hits',
+            escapeHTML: false,
+            templates: {
+                item: hitTemplate,
+            },
+        })
+    );
+
+    search.start();
+</script>
+
+<style>
+    .ais-SearchBox {
+        max-width: 100%;
+        margin-bottom: 15px;
+    }
+    .ais-SearchBox-input {
+        margin-left: 20px;
+        padding-left: 8px;
+    }
+    .ais-SearchBox-submit,
+    .ais-SearchBox-reset {
+        padding: 0 14px;
+        border-width: 0 !important;
+    }
+    .ais-Highlight {
+        background-color: #ff8f3f;
+        color: #0f0b0a;
+        border-radius: 2px;
+    }
+    .post-snippet > * {
+        color: #5b5b5b;
+        font-style: normal;
+        font-size: small;
+    }
+    .post-snippet img {
+        display: none !important;
+    }
+</style>

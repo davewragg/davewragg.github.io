@@ -75,6 +75,12 @@ picture:
 algolia:
   application_id: JJPHC9VXHC
   index_name:     davewragg.com
+  search_only_api_key: 9d0a615d3607a258347c25f82cb905e5
+  files_to_exclude:
+    - index.html
+    - search.html
+    - about.md
+    - thank-you.md
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old, .idea]
