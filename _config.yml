@@ -62,5 +62,8 @@ paginate_path: "/blog/page:num/"
 jekyll-mentions:
     base_url: https://github.com
 
+picture:
+  nomarkdown: false
+
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old, .idea]
