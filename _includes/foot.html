@@ -1,7 +1,6 @@
 <footer id="footer">
   <section>
-    <form method="POST" action="https://formspree.io/{{site.email}}">
-      <input type="hidden" name="_next" value="{{site.url}}{{site.formspree_thankyou_page}}" />
+    <form name="contact" method="POST" data-netlify="true" action="{{site.formspree_thankyou_page}}" netlify-honeypot="bbbyotfffiled">
       <div class="field">
         <label for="name">Name</label>
         <input type="text" name="name" id="name" required />
@@ -13,6 +12,9 @@
       <div class="field">
         <label for="message">Message</label>
         <textarea name="message" id="message" rows="3" required></textarea>
+      </div>
+      <div style="display:none">
+        <label>Don’t fill this out if you're human: <input name="bbbyotfffiled" /></label>
       </div>
       <ul class="actions">
         <li><input type="submit" value="Send Message" /></li>
