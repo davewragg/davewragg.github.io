@@ -2,7 +2,7 @@
 layout: post
 title:  Additional pre-order links
 date:   2019-03-10
-excerpt: "Your choice of purchase potential"
+excerpt: "A plethora of purchase potential"
 image: "/images/pre-orders.jpg"
 ---
 

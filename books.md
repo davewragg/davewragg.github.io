@@ -10,7 +10,7 @@ sitemap:
 ---
 <span class="image left book"><img src="{{ "/images/black-hawks-cover.jpg" | absolute_url }}" alt="The Black Hawks cover" /></span>
 
-## The Black Hawks (Aug 2019)
+## The Black Hawks (Oct 2019)
 
 *Vedren Chel holds every oath of service sacred ― except his own.*
  
