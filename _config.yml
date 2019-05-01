@@ -7,6 +7,7 @@ lang:             en_GB
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.davewragg.com" # the base hostname & protocol for your site
 background_image:   /images/bg.jpg
+background_image_webp:   /images/bg.webp
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 formspree_thankyou_page: /thank-you
 
