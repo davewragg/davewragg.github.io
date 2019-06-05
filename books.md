@@ -1,13 +1,18 @@
 ---
+layout: page
 title: Books
-Description: This space for rent
+description: A compendium of published work
 image: /images/black-hawks-cover.jpg
+sitemap:
+    priority: 0.9
+    lastmod: 2019-06-05
+    changefreq: monthly
 ---
 <span class="image left book"><img src="{{ "/images/black-hawks-cover.jpg" | absolute_url }}" alt="The Black Hawks cover" /></span>
 
 ## The Black Hawks (Oct 2019)
 
-__Dark, thrilling, and hilarious, The Black Hawks is an epic adventure perfect for fans of Joe Abercrombie and Scott Lynch.__
+__Dark, thrilling, and hilarious, The Black Hawks is an epic adventure perfect for fans of Joe Abercrombie and Scott Lynch.__
 
 Life as a knight is not what Vedren Chel imagined. Bound by oath to a dead-end job in the service of a lazy step-uncle, Chel no longer dreams of glory – he dreams of going home.
 
