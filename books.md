@@ -5,24 +5,26 @@ description: A compendium of published work
 image: /images/black-hawks-cover.jpg
 sitemap:
     priority: 0.9
-    lastmod: 2019-03-10
+    lastmod: 2019-06-05
     changefreq: monthly
 ---
 <span class="image left book"><img src="{{ "/images/black-hawks-cover.jpg" | absolute_url }}" alt="The Black Hawks cover" /></span>
 
 ## The Black Hawks (Oct 2019)
 
-*Vedren Chel holds every oath of service sacred ― except his own.*
- 
-His father’s sermons on the nobility of duty left him ill-prepared for the grind of service to his indolent step-uncle. Chel’s wretched oath has dragged him from home and family across a war-splintered kingdom; he craves an escape from this life.
+__Dark, thrilling, and hilarious, The Black Hawks is an epic adventure perfect for fans of Joe Abercrombie and Scott Lynch.__
 
-When foreign invaders heave into port, Chel finds opportunity in the chaos – a bargain with a stranded prince. Escort the prince to safety, and in return: release from his oath, a chance to go home. A solemn duty at last.
+Life as a knight is not what Vedren Chel imagined. Bound by oath to a dead-end job in the service of a lazy step-uncle, Chel no longer dreams of glory – he dreams of going home.
 
-But a bargain with a prince is never a simple thing, and greater forces are at play than Chel realises. Heavy wheels are turning. Assassins and mercenaries lurk in every shadow, many bearing smiles as sharp as their knives.
+When invaders throw the kingdom into turmoil, Chel finds opportunity in the chaos: if he escorts a stranded prince to safety, Chel will be released from his oath.
 
-As a kingdom’s dark conspiracy turns its gaze towards him, Chel must decide just how much he will sacrifice in duty’s name.
+All he has to do is drag the brat from one side of the country to the other, through war and wilderness, chased all the way by ruthless assassins.
 
-__Prepare to join the Black Hawk Company.__
+With killers on your trail, you need killers watching your back. You need the Black Hawk Company – mercenaries, fighters without equal, a squabbling, scrapping pack of rogues.
+
+__Prepare to join the Black Hawks.__
+
+Limited edition hardback: [Goldsboro Books](https://www.goldsborobooks.com/product/the-black-hawks-exclusive-hardback-edition)
 
 Pre-order now: [Amazon UK](https://www.amazon.co.uk/gp/product/0008331413?pf_rd_p=71cb17e9-f468-4d3f-94d5-a0de44c50a7e&pf_rd_r=G4E8JDFSJVKSPDD2D52W) 
 \| [Amazon CA](https://www.amazon.ca/exec/obidos/ASIN/0008331413/)
