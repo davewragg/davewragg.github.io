@@ -2,7 +2,6 @@
 layout: page
 title: About
 description: If you are curious, God help you
-Description: More than you ever wished to know
 image: /images/my-goddam-face.jpg
 sitemap:
     priority: 0.7
