@@ -1,7 +1,13 @@
 ---
+layout: page
 title: About
+description: If you are curious, God help you
 Description: More than you ever wished to know
 image: /images/my-goddam-face.jpg
+sitemap:
+    priority: 0.7
+    lastmod: 2019-06-05
+    changefreq: weekly
 ---
 <span class="image right face"><img src="{{ "/images/my-goddam-face.jpg" | absolute_url }}" alt="author photo (c) LSJ Roberts" />
 <sup>&copy; LSJ Roberts</sup></span>
