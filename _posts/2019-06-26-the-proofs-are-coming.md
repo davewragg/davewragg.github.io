@@ -3,7 +3,7 @@ layout: post
 title: The proofs are coming
 excerpt: There's serious danger of a real book here
 date: 2019-06-26T19:26:16.435Z
-image: /images/uploads/proofs-2-1-.jpg
+image: /images/uploads/proofs-1-1-.jpg
 ---
 In case you missed [this tweet](https://twitter.com/NatashaBardon/status/1143814668215042048), here's the news: proofs are coming, and next month.
 
