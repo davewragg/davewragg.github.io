@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mailing list! Competition!
-excerpt: Win a thing for merely lifting a finger
+excerpt: Win a thing for the merest clicks
 date: 2019-08-26T16:10:55.805Z
 image: /images/uploads/newsletter-compo.jpg
 ---
