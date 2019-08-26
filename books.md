@@ -5,7 +5,7 @@ description: A compendium of published work
 image: /images/black-hawks-cover.jpg
 sitemap:
     priority: 0.9
-    lastmod: 2019-06-05
+    lastmod: 2019-08-26
     changefreq: monthly
 ---
 <span class="image left book"><img src="{{ "/images/black-hawks-cover.jpg" | absolute_url }}" alt="The Black Hawks cover" /></span>
@@ -23,6 +23,18 @@ All he has to do is drag the brat from one side of the country to the other, thr
 With killers on your trail, you need killers watching your back. You need the Black Hawk Company – mercenaries, fighters without equal, a squabbling, scrapping pack of rogues.
 
 __Prepare to join the Black Hawks.__
+
+_‘Wragg captures the classic fantasy spirit of adventure and exploration, wraps it with stabbed backs and cannibals and gifts it to you on a bed of action’_  
+Ed McDonald, author of BLACKWING
+
+_‘Everyone loves a good mercenary tale, but THE BLACK HAWKS offers more besides: a protagonist who's refreshingly rubbish at fighting, a supporting cast who'd be fascinating if they were just standing around in a supermarket, and an author who knows when to dodge cliches, and when to jump in and splash like a kid in a puddle’_  
+Nate Crowley, author of 100 BEST VIDEO GAMES (THAT NEVER EXISTED)
+
+_‘Check out THE BLACK HAWKS – it’s full of fun characters, mercenary antics, twists, turns, and contains my favourite fantasy lemon’_  
+Peter Newman, Gemmell Award-winning author of THE VAGRANT and THE DEATHLESS
+
+_‘A remarkably assured debut … I can’t wait to see what happens next’_  
+Anna Stephens, author of GODBLIND
 
 Limited edition hardback: [Goldsboro Books](https://www.goldsborobooks.com/product/the-black-hawks-exclusive-hardback-edition)
 
