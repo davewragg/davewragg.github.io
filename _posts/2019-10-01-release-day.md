@@ -2,7 +2,7 @@
 layout: post
 title: Release day
 excerpt: 'Christmas, but for my book'
-date: 2019-10-03T13:01:26.180Z
+date: 2019-10-01T13:01:26.180Z
 image: /images/uploads/edxhltexyaajikd.jpg
 ---
 ## Look at the time
