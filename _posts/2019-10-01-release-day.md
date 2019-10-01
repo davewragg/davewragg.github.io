@@ -15,7 +15,7 @@ To be specific, the ebook and audiobook (read by the estimable Colin Mace) shoul
 
 ## Some history
 
-This is old news by now, but it's been a loooong journey to publication for a manuscript (then called Articles of Faith) I first started planning in late 2014, based on an idea I had over a decade ago. It is, in many ways, quite _bananas_ to imagine that I even managed to write the thing in the first place, let alone inflict it on the public in such a plethora of formats. A special thank you to everyone who supported, encouraged, worked on and cheerleaded (cheerled?) the book on its journey. The book's acknowledgements section lists quite how many people I owe, and I couldn't have done it without them.
+This is old news by now, but it's been a loooong journey to publication for a manuscript (then called Articles of Faith) I first started planning in late 2014, based on an idea I had over a decade ago. It is, in many ways, quite _bananas_ to imagine that I even managed to write the thing in the first place, let alone inflict it on the public in such a plethora of formats. A special thank you to everyone who supported, encouraged, worked on and cheerleaded (cheerled?) the book along the way. The book's acknowledgements section lists quite how many people I owe, and I couldn't have done it without them.
 
 ## Over to you
 
