@@ -15,7 +15,7 @@ To be specific, the ebook and audiobook (read by the estimable Colin Mace) shoul
 
 ## Some history
 
-This is old news by now, but it's been a loooong journey to publication for a manuscript (then called Articles of Faith) I first started planning in late 2014, based on an idea I had over a decade ago. It is, in many ways, quite bananas to imagine that I even managed to write the thing in the first place, let alone inflict it on the public in such a plethora of formats. A special thank you to everyone who supported, encouraged, worked on and cheerleaded (cheerled?) the book on its journey. The book's acknowledgements section lists quite how many people I owe, and I couldn't have done it without them.
+This is old news by now, but it's been a loooong journey to publication for a manuscript (then called Articles of Faith) I first started planning in late 2014, based on an idea I had over a decade ago. It is, in many ways, quite _bananas_ to imagine that I even managed to write the thing in the first place, let alone inflict it on the public in such a plethora of formats. A special thank you to everyone who supported, encouraged, worked on and cheerleaded (cheerled?) the book on its journey. The book's acknowledgements section lists quite how many people I owe, and I couldn't have done it without them.
 
 ## Over to you
 
@@ -23,7 +23,7 @@ Well, I've done my bit - it's now up to you, the great and good, to go forth and
 
 And if you did like it, I'd be delighted to hear it - [tweet me](https://twitter.com/itsdavewragg) any time.
 
-## Hereafter
+## The hereafter
 
 I'd better get cracking with book 2 then, 2020 isn't that far off all of a sudden...
 
