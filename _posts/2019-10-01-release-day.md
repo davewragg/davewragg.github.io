@@ -23,7 +23,7 @@ Well, I've done my bit - it's now up to you, the great and good, to go forth and
 
 And if you did like it, I'd be delighted to hear it - [tweet me](https://twitter.com/itsdavewragg) any time.
 
-## Foreshadowing
+## Hereafter
 
 I'd better get cracking with book 2 then, 2020 isn't that far off all of a sudden...
 
