@@ -5,7 +5,7 @@ excerpt: 'Christmas, but for my book'
 date: 2019-10-03T13:01:26.180Z
 image: /images/uploads/edxhltexyaajikd.jpg
 ---
-leaves turning, weather worsening, days shortening it's october
+leaves turning, weather worsening, days shortening, it's october, and that means..!
 
 out today
 
