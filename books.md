@@ -5,7 +5,7 @@ description: A compendium of published work
 image: /images/black-hawks-cover.jpg
 sitemap:
     priority: 0.9
-    lastmod: 2019-08-26
+    lastmod: 2019-10-03
     changefreq: monthly
 ---
 <span class="image left book"><img src="{{ "/images/black-hawks-cover.jpg" | absolute_url }}" alt="The Black Hawks cover" /></span>
@@ -24,6 +24,14 @@ With killers on your trail, you need killers watching your back. You need the Bl
 
 __Prepare to join the Black Hawks.__
 
+----
+
+_‘Reminds me of Abercrombie’s THE BLADE ITSELF’_  
+Nicholas Eames, author of KINGS OF THE WYLD
+
+_‘Refreshing and entertaining, like a cross between Nicholas Eames and Joe Abercrombie; THE BLACK HAWKS is simply a joy to read’_  
+Peter McLean, author of PRIEST OF BONES
+
 _‘Wragg captures the classic fantasy spirit of adventure and exploration, wraps it with stabbed backs and cannibals and gifts it to you on a bed of action’_  
 Ed McDonald, author of BLACKWING
 
@@ -36,9 +44,13 @@ Peter Newman, Gemmell Award-winning author of THE VAGRANT and THE DEATHLESS
 _‘A remarkably assured debut … I can’t wait to see what happens next’_  
 Anna Stephens, author of GODBLIND
 
-Limited edition hardback: [Goldsboro Books](https://www.goldsborobooks.com/product/the-black-hawks-exclusive-hardback-edition)
+----
 
-Pre-order now: [Amazon UK](https://www.amazon.co.uk/gp/product/0008331413?pf_rd_p=71cb17e9-f468-4d3f-94d5-a0de44c50a7e&pf_rd_r=G4E8JDFSJVKSPDD2D52W) 
+__Limited edition hardback__: [Goldsboro Books](https://www.goldsborobooks.com/product/the-black-hawks-exclusive-hardback-edition)
+
+__Audiobook__: [Audible.co.uk](https://www.audible.co.uk/pd/The-Black-Hawks-Audiobook/000833143X)
+
+__Order now__: [Amazon UK](https://www.amazon.co.uk/gp/product/0008331413?pf_rd_p=71cb17e9-f468-4d3f-94d5-a0de44c50a7e&pf_rd_r=G4E8JDFSJVKSPDD2D52W) 
 \| [Amazon CA](https://www.amazon.ca/exec/obidos/ASIN/0008331413/)
 \| [Amazon AU](https://www.amazon.com.au/exec/obidos/ASIN/0008331413/)
 \| [Book Depository](https://www.bookdepository.com/Black-Hawks-David-Wragg/9780008331412)
