@@ -5,17 +5,17 @@ excerpt: On the nature and un-nature of the Black Hawks
 date: 2020-02-20T19:44:58.118Z
 image: /images/uploads/The Black Hawks Cover.jpeg
 ---
-A fair number of people have remarked, in conversation, reviews and on one occasion from a passing car via megaphone*, that _The Black Hawks_ wasn't what they were expecting. Most have been kind enough to follow that up with "in a good way!", but I thought it might be worthwhile to jot down exactly what the book is (at least in my view), just in case there are still people out there who are wondering if it would be their beverage of choice and aren't sure what to expect.
+A fair number of people have remarked, in conversation, reviews and on one occasion from a passing car via megaphone[^1], that _The Black Hawks_ wasn't what they were expecting. Most have been kind enough to follow that up with "in a good way!", but I thought it might be worthwhile to jot down exactly what the book is (at least in my view), just in case there are still people out there who are wondering if it would be their beverage of choice and aren't sure what to expect.
 
 Here follow a few items on what the book is, starting with what it isn't.
 
 ### It's not a comedy
 
-The story is serious, and plenty of nasty things happen: a light-hearted jaunt through Fantasy Pastiche it is not. I'd stop short of calling it Grimdark though (and not just because of my inherent squeamishness) - it's more of a caper than a death-march**. The bulk of the book's humour comes from the characters, who certainly have a lot to say for themselves (see subsequent points).
+The story is serious, and plenty of nasty things happen: a light-hearted jaunt through Fantasy Pastiche it is not. I'd stop short of calling it Grimdark though (and not just because of my inherent squeamishness) - it's more of a caper than a death-march[^2]. The bulk of the book's humour comes from the characters, who certainly have a lot to say for themselves (see subsequent points).
 
 ### It's not magical, or monstrous
 
-It's a second-world fantasy, no magic systems, no unfathomable beasts beyond the true horror of the darkness of humanity's soul etc.*** There's a bit of technology in there, though - the setting is on the brink of some seismic changes.
+It's a second-world fantasy, no magic systems, no unfathomable beasts beyond the true horror of the darkness of humanity's soul etc.[^3] There's a bit of technology in there, though - the setting is on the brink of some seismic changes.
 
 ### It's not standalone
 
@@ -50,8 +50,8 @@ If after all that it sounds like something you or an acquaintance might enjoy, o
 
 ---
 
-*not really
+[^1]not really
 
-**I mean, Fast & Furious 5 is technically a drama, isn't it?
+[^2]I mean, Fast & Furious 5 is technically a drama, isn't it?
 
-***and wolves
+[^3]and wolves
