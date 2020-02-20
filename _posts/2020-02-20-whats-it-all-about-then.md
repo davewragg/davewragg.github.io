@@ -25,6 +25,10 @@ _The Black Hawks_ is the first of a two-part story. Book two aims to be with us 
 
 I mean, it's not for me to say who should read what at which age, but the opening line of dialogue is _"Thrice-damned pig-fucker"_ and it's all downhill from there.
 
+## It's not just about the Black Hawk Company
+
+Despite the name, the main character isn't one of the gang as the book begins. Don't worry, they show up eventually.
+
 ## It's very sweary
 
 See previous point. Yes, my mother disapproves.
