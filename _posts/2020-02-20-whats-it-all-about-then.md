@@ -50,8 +50,8 @@ If after all that it sounds like something you or an acquaintance might enjoy, o
 
 ---
 
-[^1]not really
+[^1]: not really
 
-[^2]I mean, Fast & Furious 5 is technically a drama, isn't it?
+[^2]: I mean, Fast & Furious 5 is technically a drama, isn't it?
 
-[^3]and wolves
+[^3]: and wolves
