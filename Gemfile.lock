@@ -93,9 +93,9 @@ GEM
     mini_portile2 (2.4.0)
     minitest (5.11.3)
     multipart-post (2.0.0)
-    nokogiri (1.10.4)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
-    nokogiri (1.10.4-x64-mingw32)
+    nokogiri (1.10.8-x64-mingw32)
       mini_portile2 (~> 2.4.0)
     objective_elements (1.1.0)
     octokit (4.14.0)
@@ -120,7 +120,6 @@ GEM
     thread_safe (0.3.6)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    wdm (0.1.1)
 
 PLATFORMS
   ruby
@@ -138,7 +137,6 @@ DEPENDENCIES
   jekyll-sitemap
   liquid_pluralize
   liquid_reading_time
-  wdm (>= 0.1.0)
 
 BUNDLED WITH
    1.17.3
