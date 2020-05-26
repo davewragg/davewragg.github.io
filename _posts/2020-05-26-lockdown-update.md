@@ -43,5 +43,6 @@ Um, no. Sorry again. I hope, however, that some more upbeat news won't be long i
 
 In the meantime, good health, clean hands and peaceful minds to you all.
 
+
 ---
 Photo by Gabriele Diwald on Unsplash
