@@ -5,7 +5,7 @@ description: If you are curious, God help you
 image: /images/my-goddam-face.jpg
 sitemap:
     priority: 0.7
-    lastmod: 2019-10-03
+    lastmod: 2020-05-26
     changefreq: weekly
 ---
 <span class="image right face"><img src="{{ "/images/my-goddam-face.jpg" | absolute_url }}" alt="author photo (c) LSJ Roberts" />
@@ -30,7 +30,7 @@ When is the Black Hawks out?
 > ~~August~~ October 2019 (mid-2020 for North America)
 
 When is book 2 out?
-> August 2020, all being well
+> ~~August 2020, all being well~~ April 2021. All was not, after all, well.
 
 Do you have any other books?
 > Maaaybe. Wait and see.
