@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Letter from Lockdown
-excerpt: What I've been up to during These Uncertain Times, and a book 2 update
+title: Lockdown update
+excerpt: What I've been up to during These Uncertain Times, and book 2 news
 date: 2020-05-26T19:01:31.979Z
 image: /images/uploads/lockdown-innit.jpg
 ---
