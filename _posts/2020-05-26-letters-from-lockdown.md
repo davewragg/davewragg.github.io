@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Letters from Lockdown
+title: A Letter from Lockdown
 excerpt: What I've been up to during These Uncertain Times, and a book 2 update
 date: 2020-05-26T19:01:31.979Z
 image: /images/uploads/lockdown-innit.jpg
 ---
 ## Hi
 
-I've not been around on Twitter - my preferred Sphere of Social Interaction - very much, or active here, over the last couple of months. The reasons for this aren't dramatic, or even exceptional. I have two small children at home, a full-time job (which I'm lucky enough to be able to do remotely) and a number of Book Obligations on the go, and staying on top of What Must Be Done doesn't leave a lot of time for Other Things.
+I've not been around on Twitter - my preferred Sphere of Social Interaction - very much, or active here, over the last few months. The reasons for this aren't dramatic, or even exceptional. I have two small children at home, a full-time job (which I'm lucky enough to be able to do remotely) and a number of Book Obligations on the go, and staying on top of What Must Be Done doesn't leave a lot of time for Other Things.
 
 Despite all that, I have managed a couple of jolly outings:
 
 ## SRFC reading
 
-[Super Relaxed Fantasy Club](https://twitter.com/SRFantasyClub) have been doing a stellar job on [their YouTube channel](https://www.youtube.com/channel/UCH8uMELmpiOVLik40s8y5vA) of keeping the good book vibes going during These Uncertain Times. I did my bit, whether they wanted me to or not, and chucked in an exclusive scene from the Black Hawks while looking a bit like someone who'd had his hair cut with a beard trimmer.
+[Super Relaxed Fantasy Club](https://twitter.com/SRFantasyClub) have been doing a stellar job on [their YouTube channel](https://www.youtube.com/channel/UCH8uMELmpiOVLik40s8y5vA) of keeping the good book vibes going. I did my bit, whether they wanted me to or not, and chucked in an exclusive scene from the Black Hawks while looking a bit like someone who'd had his hair cut with a beard trimmer.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/otVmnFGIgW0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
