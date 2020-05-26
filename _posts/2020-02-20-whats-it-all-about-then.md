@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'What''s it all about, then?'
+title: What's it all about, then?
 excerpt: On the nature and un-nature of the Black Hawks
 date: 2020-02-20T19:44:58.118Z
 image: /images/uploads/cropped-cover.jpg
@@ -19,7 +19,7 @@ It's a second-world fantasy, no magic systems, no unfathomable beasts beyond the
 
 ## It's not standalone
 
-_The Black Hawks_ is the first of a two-part story. Book two aims to be with us towards the end of this year (being 2020).
+_The Black Hawks_ is the first of a two-part story. ~~Book two aims to be with us towards the end of this year (being 2020).~~ Update: Book two is now planned to join us in April 2021.
 
 ## It's not YA
 
