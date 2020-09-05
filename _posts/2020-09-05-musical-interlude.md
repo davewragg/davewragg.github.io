@@ -7,7 +7,7 @@ image: /images/uploads/musical-interlude.jpg
 ---
 Spectacular composer [Will Musser](http://www.willmusser.com/) is a fan of The Black Hawks, and has composed an absolutely thumping piece to accompany the book. You can have a listen on [YouTube](https://www.youtube.com/watch?v=fOFhrkKeHro), or simply click the video below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fOFhrkKeHro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="515" src="https://www.youtube.com/embed/fOFhrkKeHro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I advise sticking it on repeat and rereading your favourite scene from the book, an ideal pastime while we await that promised update on book 2...
 
