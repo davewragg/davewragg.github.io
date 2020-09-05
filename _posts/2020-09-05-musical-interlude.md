@@ -9,9 +9,9 @@ Spectacular composer [Will Musser](http://www.willmusser.com/) is a fan of The B
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fOFhrkKeHro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I advise sticking it on repeat and rereading your favourite scene from the book, an ideal occupation while we await that promised update on book 2...
+I advise sticking it on repeat and rereading your favourite scene from the book, an ideal pastime while we await that promised update on book 2...
 
-Soon, honest.
+Soon, promise.
 
 ---
 
