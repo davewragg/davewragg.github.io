@@ -11,7 +11,7 @@ Spectacular composer [Will Musser](http://www.willmusser.com/) is a fan of The B
 
 I advise sticking it on repeat and rereading your favourite scene from the book, an ideal occupation while we await that promised update on book 2...
 
-It's coming, honest.
+Soon, honest.
 
 ---
 
