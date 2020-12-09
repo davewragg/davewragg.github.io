@@ -30,7 +30,7 @@ When is the Black Hawks out?
 > ~~August~~ October 2019 (mid-2020 for North America)
 
 When is book 2 out?
-> ~~August 2020, all being well~~ April 2021. All was not, after all, well.
+> ~~August 2020, all being well~~ ~~April 2021~~ June 2021. All was not, after all, well.
 
 Do you have any other books?
 > Maaaybe. Wait and see.
