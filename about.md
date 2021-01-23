@@ -5,14 +5,14 @@ description: If you are curious, God help you
 image: /images/my-goddam-face.jpg
 sitemap:
     priority: 0.7
-    lastmod: 2020-05-26
+    lastmod: 2021-01-23
     changefreq: weekly
 ---
 <span class="image right face"><img src="{{ "/images/my-goddam-face.jpg" | absolute_url }}" alt="author photo (c) LSJ Roberts" />
 <sup>&copy; LSJ Roberts</sup></span>
 ## About me
 
-I'm Dave Wragg. Hello. I'm from the UK, and have had many jobs. Most of them involved computers. I'm getting on a bit now, and I live in Hertfordshire. Yes, I have cats.
+I'm Dave Wragg. Hello. I'm from the UK, and have had many jobs. Most of them involved computers. I'm getting on a bit now, and I live in Hertfordshire. Yes, I have cats. And a dog now, too.
 
 ## Contact me
 
@@ -27,13 +27,13 @@ Are you Dave or David?
 > Depends who you ask. I'll answer to either.
 
 When is the Black Hawks out?
-> ~~August~~ October 2019 (mid-2020 for North America)
+> October 2019 (mid-2020 for North America)
 
-When is book 2 out?
-> ~~August 2020, all being well~~ ~~April 2021~~ June 2021. All was not, after all, well.
+When is the Righteous out?
+> June 2021 (September for North America)
 
-Do you have any other books?
-> Maaaybe. Wait and see.
+Will there be Goldsboro editions of the Righteous?
+> TBC - watch this space...
 
 ### Image credits on the website
 
