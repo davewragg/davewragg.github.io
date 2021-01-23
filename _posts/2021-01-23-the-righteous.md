@@ -23,7 +23,7 @@ The blurb isn't saying much at this stage, but if you've finished the Black Hawk
 - Impending doom!
 - Fruit-based cocktails!
 
-I think that should give you a flavour of things. Don't forget to get your preorders in early - you can find a bevy of links on the [Books page](/books). The cover art is by the stellar [Gavin Reece](https://meiklejohn.co.uk/artist/Gavin_Reece_ND).
+I think that should give you a flavour of things. Don't forget to get your preorders in early - you can find a bevy of links on the [Books page](/books). The cover art, by the way, is by the stellar [Gavin Reece](https://meiklejohn.co.uk/artist/Gavin_Reece_ND). How many characters can you recognise?
 
 ## Trivia Time!
 
