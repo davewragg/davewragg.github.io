@@ -8,7 +8,7 @@ sitemap:
     lastmod: 2019-01-23
     changefreq: monthly
 ---
-<span class="image left book"><img src="{{ "/images/black-hawks-cover.jpg" | absolute_url }}" alt="The Black Hawks cover" /></span>
+<span class="image left book"><img src="{{ "/images/black-hawks-cover.jpg" | relative_url }}" alt="The Black Hawks cover" /></span>
 
 ## The Black Hawks (Oct 2019)
 
@@ -47,7 +47,7 @@ __Order now__: [Amazon UK](https://www.amazon.co.uk/gp/product/0008331413?pf_rd_
 
 ----
 
-<span class="image right book"><img src="{{ "/images/righteous-border.jpg" | absolute_url }}" alt="The Black Hawks cover" /></span>
+<span class="image right book"><img src="{{ "/images/righteous-border.jpg" | relative_url }}" alt="The Black Hawks cover" /></span>
 
 ## The Righteous (June 2021)
 

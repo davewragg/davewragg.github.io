@@ -17,7 +17,7 @@
 
 				<!-- Header -->
 				<header id="header">
-					<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+					<a href="{{ "/" | relative_url }}" class="logo">{{site.title}}</a>
 				</header>
 
 
@@ -48,12 +48,12 @@
 							<article>
 								<header>
 									<span class="date">{{ post.date | date_to_string }}</span>
-									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+									<h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
 								</header>
-								{% picture lazy {{ post.image }} --alt Magnificent post illustration --link {{ post.url | absolute_url }} --a class="image fit" %}
+								{% picture lazy {{ post.image }} --alt Magnificent post illustration --link {{ post.url | relative_url }} --a class="image fit" %}
 								<p>{{ post.excerpt }}</p>
 								<ul class="actions">
-									<li><a href="{{ post.url | absolute_url }}" class="button">Read more</a></li>
+									<li><a href="{{ post.url | relative_url }}" class="button">Read more</a></li>
 								</ul>
 							</article>
 							{% if mod3 == 0 %}
