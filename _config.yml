@@ -59,7 +59,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-netlify
+#  - jekyll-netlify
   - jekyll-seo-tag
   - liquid_pluralize
   - liquid_reading_time

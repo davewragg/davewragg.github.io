@@ -37,7 +37,7 @@ sitemap:
 
 				<!-- Header -->
 					<header id="header">
-						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+						<a href="{{ "/" | relative_url }}" class="logo">{{site.title}}</a>
 					</header>
 
 				<!-- Nav -->
@@ -55,8 +55,8 @@ sitemap:
 									<h2><a href="#">Well hello there</a></h2>
 									<p>Welcome to my webbe zeit.</p>
 								</header>
-								<!--<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="Welcome image of not a lot" /></a>-->
-								<a href="/books/" class="image book right"><img src="{{ "/images/black-hawks-cover.jpg" | absolute_url }}" alt="The Black Hawks" /></a>
+								<!--<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | relative_url }}" alt="Welcome image of not a lot" /></a>-->
+								<a href="/books/" class="image book right"><img src="{{ "/images/black-hawks-cover.jpg" | relative_url }}" alt="The Black Hawks" /></a>
 
 								<p>Hi. I'm the author of the <b>Articles of Faith</b> series, <b>The Black Hawks</b> and <b>The Righteous</b>, published by HarperVoyager. I'm not the author of any military histories (yet).</p>
 
@@ -75,12 +75,12 @@ sitemap:
   								<article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
-  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+  										<h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
   									</header>
-									{% picture lazy {{ post.image }} --alt Magnificent post illustration --link {{ post.url | absolute_url }} --a class="image fit" %}
+									{% picture lazy {{ post.image }} --alt Magnificent post illustration --link {{ post.url | relative_url }} --a class="image fit" %}
   									<p>{{ post.excerpt }}</p>
   									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button">Read more</a></li>
+  										<li><a href="{{ post.url | relative_url }}" class="button">Read more</a></li>
   									</ul>
   								</article>
                   {% if mod3 == 0 %}
@@ -102,7 +102,7 @@ sitemap:
 						<!-- Footer -->
 							<footer>
                 <ul class="actions">
-                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Blog</a></li>
+                  <li><a href="{{ "/blog/" | relative_url }}" class="button">Blog</a></li>
                 </ul>
 							</footer>
 
