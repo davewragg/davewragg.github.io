@@ -47,7 +47,7 @@ __Order now__: [Amazon UK](https://www.amazon.co.uk/gp/product/0008331413?pf_rd_
 
 ----
 
-<span class="image right book"><img src="{{ "/images/righteous-border.jpg" | absolute_url }}" alt="The Black Hawks cover" /></span>
+<span class="image right book"><img src="{{ "/images/righteous-cover.jpg" | absolute_url }}" alt="The Black Hawks cover" /></span>
 
 ## The Righteous (June 2021)
 
