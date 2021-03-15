@@ -24,6 +24,8 @@ With killers on your trail, you need killers watching your back. You need the Bl
 
 __Prepare to join the Black Hawks.__
 
+__Signed copies__: [The Broken Binding](https://www.thebrokenbinding.co.uk/product-page/the-black-hawks-david-wragg)
+
 __Limited edition hardback__: [Goldsboro Books](https://www.goldsborobooks.com/product/the-black-hawks-exclusive-hardback-edition)
 
 __Audiobook__: [Audible.co.uk](https://www.audible.co.uk/pd/The-Black-Hawks-Audiobook/000833143X)
@@ -54,6 +56,8 @@ __Order now__: [Amazon UK](https://www.amazon.co.uk/gp/product/0008331413?pf_rd_
 Life doesn't always go to plan. Rejoin the mercenaries of the Black Hawk Company, and their hangers-on, as they continue their thrilling and spectacular adventures.
 
 __Are you ready for the Righteous?__
+
+__Signed copies__: [The Broken Binding](https://www.thebrokenbinding.co.uk/product-page/the-righteous-david-wragg)
 
 __Preorder now__: [Amazon UK](https://www.amazon.co.uk/dp/0008331448/)
 \| [Amazon US](https://www.amazon.com/dp/0008331448/)
