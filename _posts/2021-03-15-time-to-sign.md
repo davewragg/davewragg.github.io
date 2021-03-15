@@ -7,7 +7,7 @@ image: /images/uploads/jwp5zrma.jpg
 ---
 The astute and tasteful team over at [the Broken Binding](https://www.thebrokenbinding.co.uk/) have been in touch to arrange dispatch of a bevy of bookplates, meaning that for a limited time, **signed copies of both The Black Hawks and the Righteous will be available for purchase**. This is strictly limited stock, so move fast if you want to secure my grubby, half-formed mark on an otherwise pristine book.
 
-![Get your hands on this pronto](/images/uploads/yu1wmgi5.jpg "Order books, for fun and profit")
+<img alt="Get your hands on this pronto" src="/images/uploads/yu1wmgi5.jpg" tile="Order books, for fun and profit" class="image" main />
 
 Who knows, maybe you'll get a ghastly little doodle thrown in?
 
