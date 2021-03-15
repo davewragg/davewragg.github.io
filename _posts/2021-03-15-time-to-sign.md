@@ -7,7 +7,7 @@ image: /images/uploads/jwp5zrma.jpg
 ---
 The astute and tasteful team over at [the Broken Binding](https://www.thebrokenbinding.co.uk/) have been in touch to arrange dispatch of a bevy of bookplates, meaning that for a limited time, **signed copies of both The Black Hawks and the Righteous will be available for purchase**. This is strictly limited stock, so move fast if you want to secure my grubby, half-formed mark on an otherwise pristine paperback.
 
-{% picture /images/uploads/yu1wmgi5.jpg [class="image main"] %}
+{% picture /images/uploads/yu1wmgi5.jpg class="image main" %}
 
 Who knows, maybe you'll get a ghastly little doodle thrown in?
 
