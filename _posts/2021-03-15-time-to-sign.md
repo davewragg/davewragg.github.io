@@ -13,4 +13,4 @@ Who knows, maybe you'll get a ghastly little doodle thrown in?
 
 See the [Books](/books) page for links.
 
-[PRE-]ORDER NOW!
+### [PRE-]ORDER NOW!
