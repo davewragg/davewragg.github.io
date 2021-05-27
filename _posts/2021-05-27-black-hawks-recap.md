@@ -22,7 +22,8 @@ In the chaos, Chel attempts to escape both the palace and the hostile Church age
 On reaching the armies, Chel runs into his younger sister SABINA, now also in service to the royal family, before his presentation to MENDEL, the crown prince and thrall of senior Church operatives (and the surviving half of a pair of royal twins). Mendel, under evident Church instruction from BALISE DA LORAN, swears Chel into the official service of Tarfel, and sends the pair, disbelieving, back to the blockaded port.
 
 
-Chel and his new liege return, and the palace is attacked; when trying to protect his charge, Chel encounters the beggar again, now revealed as a disguised warrior. They fight, until the beggar dislocates Chel’s shoulder and knocks him down. Wounded, he watches the beggar save the prince from the murderous ESEN BASAR, son of the Grand Duke, leaving Chel confused and on the edge of consciousness.
+Chel and his new liege return, and the palace is attacked; when trying to protect his charge, Chel encounters the beggar again, now revealed as a disguised warrior. They fight, until the beggar dislocates Chel’s shoulder and knocks him down. Wounded, he watches the beggar save the prince from the murderous ESEN BASAR, son (and killer) of the Grand Duke, leaving Chel confused and on the edge of consciousness.
+
 
 He wakes to find himself and the prince taken as presumed hostages by the beggar and his comrades, a small band of mercenaries: THE BLACK HAWK COMPANY, led by the disguised beggar, RENNIC. They are WHISPER, a mute scout; FOSS, an amiable man-mountain; SPIDER, a climbing psychopath; LOVELESS, a blue-haired enigma; and LEMON, a garrulous dogsbody with an outrageous accent. The group find themselves pursued by vicious forces at the Church’s command; instead of trying to rescue the prince, they seem intent on killing him off for good. They are led by HURKEL, and feature fearsome hired killers, among them GRASSI OF THE MAWN.
 
