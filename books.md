@@ -59,6 +59,8 @@ __Are you ready for the Righteous?__
 
 __Signed copies__: [The Broken Binding](https://www.thebrokenbinding.co.uk/product-page/the-righteous-david-wragg)
 
+__Limited edition hardback__: [Goldsboro Books](https://www.goldsborobooks.com/product/the-righteous-exclusive-hardback-edition)
+
 __Preorder now__: [Amazon UK](https://www.amazon.co.uk/dp/0008331448/)
 \| [Amazon US](https://www.amazon.com/dp/0008331448/)
 \| [Amazon CA](https://www.amazon.ca/dp/0008331448/)
