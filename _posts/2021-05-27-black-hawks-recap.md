@@ -2,7 +2,7 @@
 layout: post
 title: Black Hawks Recap
 excerpt: 'Or: "Just what the hell happened back there?"'
-date: 2021-05-28T19:44:11.600Z
+date: 2021-05-27T19:44:11.600Z
 image: /images/uploads/cropped-cover.jpg
 ---
 ## Massive spoiler warning
@@ -49,4 +49,4 @@ Chel and the survivors are imprisoned beneath the citadel, visited first by Corv
 
 ---
 
-And if you'd like to know what happened __next__, why not preorder [The Righteous](/books) while there's still time!
+And if you'd like to know what happened _next_, why not preorder [The Righteous](/books) while there's still time!
