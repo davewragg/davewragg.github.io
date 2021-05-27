@@ -10,11 +10,11 @@ image: /images/uploads/cropped-cover.jpg
 ### This is going to tell you everything that happens in the Black Hawks
 #### Well on your own head be it
 
-For those of us who struggle to remember what happened last week, remembering the events of a book from a while back can be a bit of an ask, especially when the sequel to said book assumes we all have perfect recall and have only just put the first one down. The good news is that The Righteous features a little recap from the one and only Lemon at its start. However, for reasons of space and decency said recap is quite brief, so if you'd like a fuller synopsis, read on...
+For those of us who struggle to remember what happened last week, remembering the events of a book from a while back can be a bit of an ask, especially when the sequel assumes we all have perfect recall and have only just put the first one down. The good news is that The Righteous features a little recap from the one and only Lemon at its start. However, for reasons of space and decency said recap is quite brief, so if you'd like a fuller synopsis, read on...
 
 ---
 
-Vedren CHEL, a sullen young man of ANDRIZ heritage (an unloved minority), is tripped by a beggar while running to perform his duties at the winter palace that overlooks the great sea-port of DENIRNAS. Dispatched into the port on an errand, Chel sees the beggar again, but his efforts to pursue are thwarted by an encounter with the agents of a menacing Church sect: HURKEL and VASHENDA. He is spared violence when great black ships of THE NORTS sail into port, imposing a blockade. When attacked, the ships destroy their aggressors with advanced and horrifying alchemical weapons.
+Vedren CHEL, a sullen young man of ANDRIZ heritage (an unloved minority considered lucky to have around), is tripped by a beggar while running to perform his duties at the winter palace that overlooks the great sea-port of DENIRNAS. Dispatched into the port on an errand, Chel sees the beggar again, but his efforts to pursue are thwarted by an encounter with the agents of a menacing Church sect: HURKEL and VASHENDA. He is spared violence when great black ships of THE NORTS sail into port, imposing a blockade. When attacked, the ships destroy their aggressors with advanced and horrifying alchemical weapons.
 
 In the chaos, Chel attempts to escape both the palace and the hostile Church agents. In doing so, he unwittingly aids the flight of TARFEL, the kingdom’s junior prince. He is ward of the port’s lord, the Grand Duke, a consequence of the king’s infirmity. Prince Tarfel demands to be escorted to his brother’s armies, and promises that Chel will be released from his hated oath of service if he complies. Chel complies.
 
