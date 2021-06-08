@@ -36,7 +36,7 @@ Who did the covers for the books?
 > The covers were designed by [Micaela Alcaino](https://www.micaelaalcaino.com/). The artist for the Black Hawks was [Richard Anderson](http://www.flaptrapsart.com/), for the Righteous it was [Gavin Reece](https://gavinreece.myportfolio.com/)
 
 Will there be Goldsboro editions of the Righteous?
-> TBC - watch this space...
+> Yes! [Right here](https://www.goldsborobooks.com/product/the-righteous-exclusive-hardback-edition)
 
 ### Image credits on the website
 
