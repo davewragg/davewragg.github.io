@@ -13,11 +13,11 @@ It's release day. Later than planned (much, _much_ later) but we got there in th
 
 > Some of the items listed below aren't up yet - I'll be updating this page with new links when I get them.
 
-## Features
+## Features from around the web
 
 **Fantasy Hive:** An interview with your favourite characters (or at least Chel and Lemon) - TBD
 
-**Fantasy Hive:** Book excerpt - [The first chapter, and a recap of book 1 from Lemon](https://fantasy-hive.co.uk/2021/06/the-righteous-by-david-wragg-excerpt/)
+**Fantasy Hive:** Excerpt of [the first chapter, and a recap of Book 1 from Lemon](https://fantasy-hive.co.uk/2021/06/the-righteous-by-david-wragg-excerpt/)
 
 **Fantasy Inn:** - Rambling Q&A - TBD
 
@@ -39,13 +39,13 @@ _Others incoming..._
 
 ## Videos
 
-**HarperVoyager** [Black Hawks lightning recap videos](https://twitter.com/HarperVoyagerUK/status/1398217515168378881)
+**HarperVoyager:** [Black Hawks lightning recap videos](https://twitter.com/HarperVoyagerUK/status/1398217515168378881)
 
-**Brothers Gwynne:** [June releases pitch video](https://www.youtube.com/watch?v=zTRDBj1qFOg) (or [jump to my bit](https://www.youtube.com/watch?v=zTRDBj1qFOg&t=354s))
+**Brothers Gwynne:** [June releases pitch video](https://www.youtube.com/watch?v=zTRDBj1qFOg) ([jump straight to my bit](https://www.youtube.com/watch?v=zTRDBj1qFOg&t=354s))
 
 **Slowly Red:** [Feature-length webchat with Mark Massera](https://youtu.be/uT-I8g9mxl8)
 
-**Fan Fi Addict** - TBD
+**Fan Fi Addict:** - TBD
 
 ## Over to you
 
