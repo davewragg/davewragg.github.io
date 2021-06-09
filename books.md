@@ -61,7 +61,9 @@ __Signed copies__: [The Broken Binding](https://www.thebrokenbinding.co.uk/produ
 
 __Limited edition hardback__: [Goldsboro Books](https://www.goldsborobooks.com/product/the-righteous-exclusive-hardback-edition)
 
-__Preorder now__: [Amazon UK](https://www.amazon.co.uk/dp/0008331448/)
+__Audiobook__: [Audible.co.uk](https://www.audible.co.uk/pd/The-Righteous-Audiobook/0008331464)
+
+__Order now__: [Amazon UK](https://www.amazon.co.uk/dp/0008331448/)
 \| [Amazon US](https://www.amazon.com/dp/0008331448/)
 \| [Amazon CA](https://www.amazon.ca/dp/0008331448/)
 \| [Amazon AU](https://www.amazon.com.au/dp/0008331448/)
