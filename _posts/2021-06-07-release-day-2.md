@@ -2,7 +2,7 @@
 layout: post
 title: Release day 2
 excerpt: Batten down your hatches, it's time for The Righteous
-date: 2021-06-09T20:44:30.976Z
+date: 2021-06-10T00:44:30.976Z
 image: /images/uploads/91qqter6bll-2-squoosh.jpg
 ---
 ## We made it
