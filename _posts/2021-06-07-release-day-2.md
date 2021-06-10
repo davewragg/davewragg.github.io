@@ -15,7 +15,7 @@ It's release day. Later than planned (much, _much_ later) but we got there in th
 
 ## Features from around the web
 
-**Fantasy Hive:** An interview with your favourite characters (or at least Chel and Lemon) - TBD
+**Fantasy Hive:** [An interview with your favourite characters (or at least Chel and Lemon)](https://fantasy-hive.co.uk/2021/06/nils-is-having-a-special-interview-with-vedren-chel-and-lemon-the-characters-from-the-righteous/)
 
 **Fantasy Hive:** Excerpt of [the first chapter, and a recap of Book 1 from Lemon](https://fantasy-hive.co.uk/2021/06/the-righteous-by-david-wragg-excerpt/)
 
