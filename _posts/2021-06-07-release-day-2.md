@@ -19,9 +19,9 @@ It's release day. Later than planned (much, _much_ later) but we got there in th
 
 **Fantasy Hive:** Excerpt of [the first chapter, and a recap of Book 1 from Lemon](https://fantasy-hive.co.uk/2021/06/the-righteous-by-david-wragg-excerpt/)
 
-**Fantasy Inn:** - [Rambling chat](https://thefantasyinn.com/2021/06/10/a-chat-with-david-wragg/)
+**Fantasy Inn:** [Rambling chat](https://thefantasyinn.com/2021/06/10/a-chat-with-david-wragg/)
 
-**Track of Words:** - [Rapid fire interview](https://www.trackofwords.com/2021/06/09/rapid-fire-david-wragg-talks-the-righteous)
+**Track of Words:** [Rapid fire interview](https://www.trackofwords.com/2021/06/09/rapid-fire-david-wragg-talks-the-righteous)
 
 And don't forget that already on the site we have a [Floating Prologue](https://www.davewragg.com/blog/the-floating-prologue/) and a [Detailed Recap of The Black Hawks](https://www.davewragg.com/blog/black-hawks-recap/).
 
@@ -45,7 +45,7 @@ _Others incoming..._
 
 **Slowly Red:** [Feature-length webchat with Mark Massera](https://youtu.be/uT-I8g9mxl8)
 
-**Fan Fi Addict:** - [Author chat](https://www.youtube.com/watch?v=lsmtKAoT6iA)
+**Fan Fi Addict:** [Author chat](https://www.youtube.com/watch?v=lsmtKAoT6iA)
 
 ## Over to you
 
