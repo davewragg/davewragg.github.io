@@ -45,7 +45,7 @@ _Others incoming..._
 
 **Slowly Red:** [Feature-length webchat with Mark Massera](https://youtu.be/uT-I8g9mxl8)
 
-**Fan Fi Addict:** - TBD
+**Fan Fi Addict:** - [Author chat](https://www.youtube.com/watch?v=lsmtKAoT6iA)
 
 ## Over to you
 
