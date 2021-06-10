@@ -19,7 +19,7 @@ It's release day. Later than planned (much, _much_ later) but we got there in th
 
 **Fantasy Hive:** Excerpt of [the first chapter, and a recap of Book 1 from Lemon](https://fantasy-hive.co.uk/2021/06/the-righteous-by-david-wragg-excerpt/)
 
-**Fantasy Inn:** - Rambling Q&A - TBD
+**Fantasy Inn:** - [Rambling chat](https://thefantasyinn.com/2021/06/10/a-chat-with-david-wragg/)
 
 **Track of Words:** - [Rapid fire interview](https://www.trackofwords.com/2021/06/09/rapid-fire-david-wragg-talks-the-righteous)
 
