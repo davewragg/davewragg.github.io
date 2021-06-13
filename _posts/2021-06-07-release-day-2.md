@@ -9,10 +9,6 @@ image: /images/uploads/91qqter6bll-2-squoosh.jpg
 
 It's release day. Later than planned (much, _much_ later) but we got there in the end. As you read these words, **The Righteous** is loose in the world. Below you'll find a list of all the pre-release, release and post-release coverage, which is all very exciting indeed.
 
-### Watch this space
-
-> Some of the items listed below aren't up yet - I'll be updating this page with new links when I get them.
-
 ## Features from around the web
 
 **Fantasy Hive:** [An interview with your favourite characters (or at least Chel and Lemon)](https://fantasy-hive.co.uk/2021/06/nils-is-having-a-special-interview-with-vedren-chel-and-lemon-the-characters-from-the-righteous/)
@@ -30,6 +26,8 @@ And don't forget that already on the site we have a [Floating Prologue](https://
 **HarperVoyager:** (ends ??) on [Twitter](https://twitter.com/HarperVoyagerUK/status/1400787428105932802)
 
 **Fantasy Hive:** (ends 14th June) on [Twitter](https://twitter.com/TheFantasyHive/status/1401901626865115147)
+
+**Broken Binding** (ends ??) on [Twitter](https://twitter.com/binding_broken/status/1404120304394326022)
 
 ## Reviews
 
