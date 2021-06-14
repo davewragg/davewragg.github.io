@@ -11,7 +11,7 @@ Of course, in terms of the book's message, you can't do a lot better than Garbag
 
 > ## Some level of spoiler potential, maybe
 >
-> It's possible that reading these track names may give away aspects of the book, if you tilt your head and squint I suppose. If you're concerned, maybe come back after you've read it?
+> It's possible that these track names may give away aspects of the book, if you tilt your head and squint a little. If you're concerned, maybe come back after you've read it?
 
 ### PART 1
 
