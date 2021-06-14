@@ -51,6 +51,8 @@ Of course, in terms of the book's message, you can't do a lot better than Garbag
 - Powerslave
 - Running Free
 
+<small>I don't have Spotify so can't turn these all into a cool little playlist link, but if anyone else fancies a go I'll update here!</small>
+
 ---
 
 Photo by <a href="https://unsplash.com/@luukski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luuk Wouters</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
