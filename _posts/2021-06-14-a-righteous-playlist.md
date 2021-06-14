@@ -5,13 +5,13 @@ excerpt: Rock on, thematically
 date: 2021-06-14T19:45:01.873Z
 image: /images/uploads/luuk-wouters-2rxgwhby5mo-unsplash-squoosh.jpg
 ---
-You may remember that The Black Hawks [has its own soundtrack](https://www.davewragg.com/blog/musical-interlude/), care of mellifluous composer Will Musser. As yet, The Righteous doesn't have one of its own, so I thought in the style of [Nicholas Eames](https://nicholaseames.com/soundtrack/) (and others) I'd assemble a playlist of thematic tracks to go along with the book. Because I am an ancient prat, they are all from Iron Maiden.
+You may remember that The Black Hawks [has its own soundtrack](https://www.davewragg.com/blog/musical-interlude/), care of mellifluous composer [Will Musser](http://www.willmusser.com/). As yet, The Righteous doesn't have one of its own, so I thought in the style of [Nicholas Eames](https://nicholaseames.com/soundtrack/) (and others) I'd assemble a playlist of thematic tracks to go along with the book. Because I am an ancient prat, they are all from Iron Maiden.
 
-Of course, in terms of the book's message, you can't do a lot better than Garbage's stellar new album [No Gods, No Masters](https://open.spotify.com/album/1oLs7LqGqSmD643CULAiZc) which came out a day or two after the book. But let's pretend otherwise, shall we?
+Of course, in terms of the book's message, you can't do a lot better than Garbage's stellar new album [No Gods, No Masters](https://open.spotify.com/album/1oLs7LqGqSmD643CULAiZc), which came out a day or two after the book. But let's pretend otherwise, shall we?
 
 > ## Some level of spoiler potential, maybe
 >
-> It's possible that reading these track names may give away aspects of the book, if you tilt your head and squint I suppose. Maybe come back after you've read it?
+> It's possible that reading these track names may give away aspects of the book, if you tilt your head and squint I suppose. Maybe come back after you've read it if you're concerned?
 
 ### PART 1
 
@@ -50,8 +50,8 @@ Of course, in terms of the book's message, you can't do a lot better than Garbag
 * [Powerslave](https://youtu.be/Mw-o_cSdqmI)
 * [Running Free](https://youtu.be/80Hyz4pOXtE)
 
-<small>I don't have Spotify so can't turn these all into a cool little playlist link, but if anyone else fancies a go I'll update here!</small>
+<small>I don't have Spotify so can't turn these all into a cool little playlist link, but if anyone else fancies a go I'll add it here</small>
 
 - - -
 
-Photo by <a href="https://unsplash.com/@luukski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luuk Wouters</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+<small>Photo by <a href="https://unsplash.com/@luukski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luuk Wouters</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></small>
