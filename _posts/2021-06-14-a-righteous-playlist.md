@@ -13,47 +13,45 @@ Of course, in terms of the book's message, you can't do a lot better than Garbag
 >
 > It's possible that reading these track names may give away aspects of the book, if you tilt your head and squint I suppose. Maybe come back after you've read it?
 
-
 ### PART 1
 
-- Hallowed Be Thy Name
-- Run to the Hills
-- Can I Play with Madness
-- Invaders
+* [Hallowed Be Thy Name](https://youtu.be/HAQQUDbuudY)
+* [Run to the Hills](https://youtu.be/86URGgqONvA)
+* [Can I Play with Madness](https://youtu.be/jThfgcOqwlY)
+* [Invaders](https://youtu.be/iQ5JAxPqum0)
 
 ### PART 2
 
-- Where Eagles Dare
-- Prodigal Son
-- 22 Acacia Avenue
-- Killers
-- Only the Good Die Young
+* [Where Eagles Dare](https://youtu.be/NGqbJiq675s)
+* [Prodigal Son](https://youtu.be/rbP7Yh8vnmg)
+* [22 Acacia Avenue](https://youtu.be/T5WpPLRrhac)
+* [Killers](https://youtu.be/w1Fw71X4uiM)
+* [Only the Good Die Young](https://youtu.be/9oGV86YXTfU)
 
 ### PART 3
 
-- Sanctuary
-- Iron Maiden
-- Revelations
-- Sun and Steel
-- Afraid to Shoot Strangers
-- 2 Minutes to Midnight
-- Aces High
-- Die with Your Boots On
-- Wrathchild
-- Flash of the Blade
-- Rainmaker
-- The Evil that Men Do
+* [Sanctuary](https://youtu.be/nqkC-k3RoXE)
+* [Iron Maiden](https://youtu.be/L3OHi_vw4jY)
+* [Revelations](https://youtu.be/ClUB7_8xjEw)
+* [Sun and Steel](https://youtu.be/aOKJIynZlZ0)
+* [Afraid to Shoot Strangers](https://youtu.be/wfcLesynJrc)
+* [2 Minutes to Midnight](https://youtu.be/9qbRHY1l0vc)
+* [Aces High](https://youtu.be/Xg9aQvjMS60)
+* [Die with Your Boots On](https://youtu.be/LfOXu6l3WTQ)
+* [Wrathchild](https://youtu.be/u-3Ka8x4zvE)
+* [Flash of the Blade](https://youtu.be/Qx0s8OqgBIw)
+* [Rainmaker](https://youtu.be/sxefBf865Vg)
+* [The Evil that Men Do](https://youtu.be/M6JpxDebokM)
 
 ### PART 4
 
-- The Fugitive
-- Blood Brothers
-- Powerslave
-- Running Free
+* [The Fugitive](https://youtu.be/WG6_gYpgH3I)
+* [Blood Brothers](https://youtu.be/NXqFxShP7Ao)
+* [Powerslave](https://youtu.be/Mw-o_cSdqmI)
+* [Running Free](https://youtu.be/80Hyz4pOXtE)
 
 <small>I don't have Spotify so can't turn these all into a cool little playlist link, but if anyone else fancies a go I'll update here!</small>
 
----
+- - -
 
 Photo by <a href="https://unsplash.com/@luukski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luuk Wouters</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
