@@ -50,7 +50,7 @@ Of course, in terms of the book's message, you can't do a lot better than Garbag
 * [Powerslave](https://youtu.be/Mw-o_cSdqmI)
 * [Running Free](https://youtu.be/80Hyz4pOXtE)
 
-<small>I don't have Spotify so can't turn these all into a cool little playlist link, but if anyone else fancies a go I'll add it here</small>
+I don't have Spotify so can't turn these all into a cool little playlist link, but if anyone else fancies a go I'll add it here. In the meantime: Rock on! 🤘🤘
 
 - - -
 
