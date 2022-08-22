@@ -19,7 +19,7 @@ The full schedule is available on [the BFS website](https://www.britishfantasyso
 
 **BristolCon** will be at the Hilton DoubleTree Hotel in Bristol on Saturday 29th October. The schedule is yet to be announced, but do keep an eye on [their website](https://www.bristolcon.org/index.php?option=com_content&view=article&id=17) for more details. I might even update this page once it's confirmed.
 
-And, as I've been saying for months (years?), I'm sure I'll have some meaningful news soon, so once again, watch this space. In the meantime, I hope to see you at one of the conventions!
+And, as I've been saying for months (years?), I'm sure I'll have some meaningful news soon, so once again, watch this space. In the meantime, I hope to see you at one - if not both - of the conventions.
 
 ---
 <small>Photo by <a href="https://unsplash.com/@priscilladupreez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Priscilla Du Preez</a> on <a href="https://unsplash.com/s/photos/convention?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></small>
