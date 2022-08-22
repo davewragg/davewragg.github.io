@@ -9,12 +9,11 @@ After a year or two of living in a cave (metaphorically speaking), I'll be ventu
 
 FantasyCon is taking place on the 17th and 18th September at the Heathrow Radisson Red Hotel, and my schedule there is as follows:
 
-| Day| Time | Panel/Reading    | Location                   |
-|----------|-------|------------------|--------------------------|
-| Saturday | 11:00 | Writing Humour   | Room 2                   |
-
-| Saturday | 14:00 | Writing Dialogue | The Angry Robot Room (4) |
-| Sunday   | 13:00 | Reading          | Room 5                   |
+| Day           | Time  | Panel/Reading    | Location |
+|---------------|-------|------------------|----------|
+| Saturday 17/9 | 11:00 | Writing Humour   | Room 2   |
+| Saturday 17/9 | 14:00 | Writing Dialogue | Room 4   |
+| Sunday 18/9   | 13:00 | Reading          | Room 5   |
 
 The full schedule is available on [the BFS website](https://www.britishfantasysociety.org/fantasycon/fantasycon-programme/) - do come along if you're in the neighbourhood, especially as I will be reading from **SOMETHING NEW AND UNANNOUNCED**.
 
