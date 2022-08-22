@@ -17,7 +17,7 @@ After a year or two of living in a cave (metaphorically speaking), I'll be ventu
 
 The full schedule is available on [the BFS website](https://www.britishfantasysociety.org/fantasycon/fantasycon-programme/) - do come along if you're in the neighbourhood, especially as I will be reading from **SOMETHING NEW AND UNANNOUNCED**.
 
-**BristolCon** will be at the Hilton DoubleTree Hotel in Bristol on Saturday 29th October. The schedule is yet to be announced, but do keep an eye on [their website](https://www.bristolcon.org/index.php?option=com_content&view=article&id=17) for more details.
+**BristolCon** will be at the Hilton DoubleTree Hotel in Bristol on Saturday 29th October. The schedule is yet to be announced, but do keep an eye on [their website](https://www.bristolcon.org/index.php?option=com_content&view=article&id=17) for more details. I might even update this page once it's confirmed.
 
 And, as I've been saying for months (years?), I'm sure I'll have some meaningful news soon, so once again, watch this space. In the meantime, I hope to see you at one of the conventions!
 
