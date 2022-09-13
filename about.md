@@ -5,7 +5,7 @@ description: If you are curious, God help you
 image: /images/my-goddam-face.jpg
 sitemap:
     priority: 0.7
-    lastmod: 2021-01-23
+    lastmod: 2022-09-13
     changefreq: weekly
 ---
 <span class="image right face"><img src="{{ "/images/my-goddam-face.jpg" | absolute_url }}" alt="author photo (c) LSJ Roberts" />
@@ -35,8 +35,8 @@ When is the Righteous out?
 Who did the covers for the books?
 > The covers were designed by [Micaela Alcaino](https://www.micaelaalcaino.com/). The artist for the Black Hawks was [Richard Anderson](http://www.flaptrapsart.com/), for the Righteous it was [Gavin Reece](https://gavinreece.myportfolio.com/)
 
-Will there be Goldsboro editions of the Righteous?
-> Yes! [Right here](https://www.goldsborobooks.com/product/the-righteous-exclusive-hardback-edition)
+Will there be a book 3 for Articles of Faith? (A Black Hawks III, Righteous II etc)
+> Short answer: Not for now; the series is complete at two books. That said, I do know exactly what happens next, so maybe if the commercial demand were _enormous_ ... Never say never.
 
 ### Image credits on the website
 
