@@ -36,7 +36,7 @@ Who did the covers for the books?
 > The covers were designed by [Micaela Alcaino](https://www.micaelaalcaino.com/). The artist for the Black Hawks was [Richard Anderson](http://www.flaptrapsart.com/), for the Righteous it was [Gavin Reece](https://gavinreece.myportfolio.com/)
 
 Will there be a book 3 for Articles of Faith? (A Black Hawks III, Righteous II etc)
-> Short answer: Not for now; the series is complete at two books. That said, I do know exactly what happens next, so maybe if the commercial demand were enormous ... Never say never.
+> Short answer: Not for now; the series is complete at two books. That said, I do know exactly what happens next, so maybe if the commercial demand were _enormous_ ... Never say never.
 
 ### Image credits on the website
 
