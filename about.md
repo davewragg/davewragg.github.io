@@ -16,7 +16,7 @@ I'm Dave Wragg. Hello. I'm from the UK, and have had many jobs. Most of them inv
 
 ## Contact me
 
-You can find me on Twitter at <a href="https://www.twitter.com/{{ site.twitter.username }}">@{{ site.twitter.username }}</a>. For anything rights-related, I'm represented by <a href="http://www.dhhliteraryagency.com/harry-illingworth.html">Harry Illingworth</a> at the DHH Literary Agency. For anything else, try the form at the bottom of the page.
+You can find me on Mastodon at <a href="https://{{site.mastodon.instance}}/{{site.mastodon.username}}" rel="nofollow" title="Mastodon">{{site.mastodon.username}}@{{site.mastodon.instance}}</a>. I'm also on Twitter (while it lasts) at <a href="https://www.twitter.com/{{ site.twitter.username }}">@{{ site.twitter.username }}</a>. For anything rights-related, I'm represented by <a href="http://www.dhhliteraryagency.com/harry-illingworth.html">Harry Illingworth</a> at the DHH Literary Agency. For anything else, try the form at the bottom of the page.
 
 ## FAQ
 
