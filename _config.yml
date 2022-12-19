@@ -47,6 +47,9 @@ twitter:
   card: summary
 instagram:          default
 github:             default
+mastodon:
+  username: "@itsdavewragg"
+  instance: mastodon.me.uk
 
 # personal
 location:           The Nebulous South-East, UK
