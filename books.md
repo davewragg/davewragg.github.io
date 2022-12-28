@@ -14,9 +14,15 @@ sitemap:
 
 __Dark, thrilling, and hilarious, The Black Hawks is an epic adventure perfect for fans of Joe Abercrombie and Scott Lynch.__
 
-The Black Hawks and The Righteous follow the adventures of sworn man Vedren Chel as he confronts the world head-on, often with spectacularly painful consequences.
+**The Black Hawks** and **The Righteous** follow the adventures of sworn man Vedren Chel as he confronts the world head-on, often with spectacularly painful consequences.
 
 [Learn more &raquo;](articles-of-faith)
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ----
 
@@ -24,6 +30,15 @@ The Black Hawks and The Righteous follow the adventures of sworn man Vedren Chel
 
 ## Tales of the Plains (2023-)
 
-Ree is a woman with a past, and a 12-year-old niece, Javani, living at the very fringe of the known world. When two sets of killers arrive in their remote mining town, intent on hunting the girl she calls her niece, Ree must confront both new threats and old lies if she hopes to get them both out alive.
+A brand new trilogy, starting with **The Hunters**, picks up 13 years after the events of The Righteous, far to the north in the untamed borders of the Serican Protectorate, where a woman called Ree must face new threats and old lies.
 
 [Learn more &raquo;](tales-of-the-plains)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
