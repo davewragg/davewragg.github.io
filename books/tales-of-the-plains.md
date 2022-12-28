@@ -16,7 +16,7 @@ sitemap:
 
 __It's 13 years since the events of The Righteous, and the world is changed...__
 
-Ree is a woman with a past, and a 12-year-old niece, Javani, living at the very fringe of the known world. When two sets of killers arrive in their remote mining town, intent on hunting the girl she calls her niece, Ree must confront both new threats and old lies if she hopes to get them both out alive.
+Ree is a woman with a past and a 12-year-old niece, Javani, living at the very fringe of the known world. When two sets of killers arrive in their remote mining town, intent on hunting the girl in her care, Ree must confront both new threats and old lies if she hopes to get them both out alive.
 
 __Limited edition hardback__: details soon...
 
