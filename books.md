@@ -8,7 +8,7 @@ sitemap:
     lastmod: 2019-01-23
     changefreq: monthly
 ---
-<span class="image left book"><img src="{{ "/images/black-hawks-cover.jpg" | absolute_url }}" alt="The Black Hawks cover" /></span>
+<span class="image left book"><img src="{{ "/images/articles-of-faith-cover.jpg" | absolute_url }}" alt="Articles of Faith" /></span>
 
 ## Articles of Faith (2019-2021)
 
