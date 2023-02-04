@@ -5,18 +5,22 @@ description: The adventures of Ree and Javani
 image: /images/hunters-cover-large.jpg
 sitemap:
     priority: 0.9
-    lastmod: 2022-12-19
+    lastmod: 2023-02-04
     changefreq: monthly
 ---
 # Tales of the Plains
 
-<span class="image left book"><img src="{{ "/images/hunters-cover.jpg" | absolute_url }}" alt="The Hunters cover" /></span>
+<a href="/images/hunters-cover-large.jpg"><span class="image left book"><img src="{{ "/images/hunters-cover.jpg" | absolute_url }}" alt="The Hunters cover" /></span><a>
 
 ## The Hunters (July 2023)
 
 __It's 13 years since the events of The Righteous, and the world is changed...__
 
-Ree is a woman with a past and a 12-year-old niece, Javani, living at the very fringe of the known world. When two sets of killers arrive in their remote mining town, intent on hunting the girl in her care, Ree must confront both new threats and old lies if she hopes to get them both out alive.
+Ree is a woman with a violent past – a past she is eager to put behind her. After years of wandering, she and her niece, Javani, have built a small farm in mining country, at the edge of the known world, and Ree is keeping her head down.
+
+But one day two groups of professional killers arrive in town, looking for a young girl and an older woman. A deadly chase through deserts, mountains, and mines begins. And Ree will have to discover her former self if she is to keep them both alive.
+
+<br>
 
 __Limited edition hardback__: details soon...
 
