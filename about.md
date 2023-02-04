@@ -5,7 +5,7 @@ description: If you are curious, God help you
 image: /images/my-goddam-face.jpg
 sitemap:
     priority: 0.7
-    lastmod: 2022-09-13
+    lastmod: 2023-02-04
     changefreq: weekly
 ---
 <span class="image right face"><img src="{{ "/images/my-goddam-face.jpg" | absolute_url }}" alt="author photo (c) LSJ Roberts" />
@@ -33,7 +33,7 @@ Is the new series a sequel to Articles of Faith?
 > It's set in the same world, 13 years after the events of The Righteous, but can be read completely standalone - although there might be one or two characters who pop up in both.
 
 Who did the covers for the books?
-> The covers were designed by [Micaela Alcaino](https://www.micaelaalcaino.com/). The artist for The Black Hawks was [Richard Anderson](http://www.flaptrapsart.com/), for The Righteous it was [Gavin Reece](https://gavinreece.myportfolio.com/). I'm fairly sure The Hunters is Gavin as well, but I'm waiting for confirmation.
+> The original cover design is by [Micaela Alcaino](https://www.micaelaalcaino.com/). The artist for The Black Hawks was [Richard Anderson](http://www.flaptrapsart.com/), for The Righteous and The Hunters it was [Gavin Reece](https://gavinreece.myportfolio.com/).
 
 Will there be a book 3 for Articles of Faith? (A Black Hawks III, Righteous II etc)
 > Short answer: Not for now; the series is complete at two books. That said, I do know exactly what happens next, so maybe if the commercial demand were _enormous_ ... Never say never.

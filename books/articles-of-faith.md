@@ -10,7 +10,7 @@ sitemap:
 ---
 # Articles of Faith
 
-<span class="image left book"><img src="{{ "/images/black-hawks-cover.jpg" | absolute_url }}" alt="The Black Hawks cover" /></span>
+<a href="/images/black-hawks-cover-large.jpg"><span class="image left book"><img src="{{ "/images/black-hawks-cover.jpg" | absolute_url }}" alt="The Black Hawks cover" /></span></a>
 
 ## The Black Hawks (Oct 2019)
 
@@ -51,7 +51,7 @@ __Order now__: [Amazon UK](https://www.amazon.co.uk/gp/product/0008331413?pf_rd_
 
 ----
 
-<span class="image right book"><img src="{{ "/images/righteous-cover.jpg" | absolute_url }}" alt="The Black Hawks cover" /></span>
+<a href="/images/righteous-cover-large.jpg"><span class="image right book"><img src="{{ "/images/righteous-cover.jpg" | absolute_url }}" alt="The Righteous cover" /></span></a>
 
 ## The Righteous (June 2021)
 
