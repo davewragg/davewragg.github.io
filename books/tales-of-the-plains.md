@@ -5,7 +5,7 @@ description: The adventures of Ree and Javani
 image: /images/hunters-cover-large.jpg
 sitemap:
     priority: 0.9
-    lastmod: 2023-02-04
+    lastmod: 2023-05-13
     changefreq: monthly
 ---
 # Tales of the Plains
@@ -18,13 +18,13 @@ __It's 13 years since the events of The Righteous, and the world is changed...__
 
 Ree is a woman with a violent past – a past she is eager to put behind her. After years of wandering, she and her niece, Javani, have built a small farm in mining country, at the edge of the known world, and Ree is keeping her head down.
 
-But one day two groups of professional killers arrive in town, looking for a young girl and an older woman. A deadly chase through deserts, mountains, and mines begins. And Ree will have to discover her former self if she is to keep them both alive.
+But one day two groups of professional killers arrive in town, looking for a young girl and an white-haired woman. A deadly chase through deserts, mountains, and mines begins. And Ree will have to discover her former self if she is to keep them both alive.
 
 <br>
 
 __Limited edition hardback__: details soon...
 
-__Audiobook__: details soon...
+__Audiobook__: [Audible.co.uk](https://www.audible.co.uk/pd/The-Hunters-Audiobook/B0C3WDVRDS)
 
 __Pre-order now__: [Amazon UK](https://www.amazon.co.uk/Hunters-Book-Tales-Plain/dp/0008533725/)
 \| [Amazon US](https://www.amazon.com/Hunters-Tales-Plain-Book-ebook/dp/B0BQQ4MGHT)
@@ -43,3 +43,9 @@ __Pre-order now__: [Amazon UK](https://www.amazon.co.uk/Hunters-Book-Tales-Plain
 [Find my local bookshop (UK)](http://www.booksellers.org.uk/bookshopsearch)
 
 [&laquo; Back to Books](/books)
+
+---
+
+## Resources
+
+- [Maps!](/blog/maps)
