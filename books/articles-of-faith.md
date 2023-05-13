@@ -5,7 +5,7 @@ description: The Black Hawks and The Righteous
 image: /images/black-hawks-cover.jpg
 sitemap:
     priority: 0.9
-    lastmod: 2019-01-23
+    lastmod: 2023-05-13
     changefreq: monthly
 ---
 # Articles of Faith
@@ -82,7 +82,16 @@ __Order now__: [Amazon UK](https://www.amazon.co.uk/dp/0008331448/)
 [Foyles]: https://www.foyles.co.uk/witem/fiction-poetry/the-righteous-(articles-of-faith-book-2,david-wragg-9780008331443
 
 
-----
+---
+
+## Resources
+
+- [Black Hawks recap](/blog/black-hawks-recap)
+- [Maps!](/blog/maps)
+- [A Righteous Playlist](a-righteous-playlist/)
+- [The Floating Prologue](/blog/the-floating-prologue/)
+
+---
 
 ### Praise for the Black Hawks
 
