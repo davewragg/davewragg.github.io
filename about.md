@@ -5,7 +5,7 @@ description: If you are curious, God help you
 image: /images/my-goddam-face.jpg
 sitemap:
     priority: 0.7
-    lastmod: 2023-02-04
+    lastmod: 2023-05-13
     changefreq: weekly
 ---
 <span class="image right face"><img src="{{ "/images/my-goddam-face.jpg" | absolute_url }}" alt="author photo (c) LSJ Roberts" />
@@ -16,7 +16,7 @@ I'm Dave Wragg. Hello. I'm from the UK, and have had many jobs. Most of them inv
 
 ## Contact me
 
-You can find me on Mastodon at <a href="https://{{site.mastodon.instance}}/{{site.mastodon.username}}" rel="nofollow" title="Mastodon">{{site.mastodon.username}}@{{site.mastodon.instance}}</a>. I'm also on Twitter (while it lasts) at <a href="https://www.twitter.com/{{ site.twitter.username }}">@{{ site.twitter.username }}</a>. For anything rights-related, I'm represented by <a href="http://www.dhhliteraryagency.com/harry-illingworth.html">Harry Illingworth</a> at the DHH Literary Agency. For anything else, try the form at the bottom of the page.
+You can find me on Mastodon at <a href="https://{{site.mastodon.instance}}/{{site.mastodon.username}}" rel="nofollow" title="Mastodon">{{site.mastodon.username}}@{{site.mastodon.instance}}</a>. I'm also on Twitter (while it lasts) at <a href="https://www.twitter.com/{{ site.twitter.username }}">@{{ site.twitter.username }}</a>. For anything rights-related, I'm represented by <a href="http://www.dhhliteraryagency.com/harry-illingworth.html">Harry Illingworth</a> at the DHH Literary Agency. For anything else, try the form at the very bottom of the page.
 
 ## FAQ
 
@@ -37,6 +37,24 @@ Who did the covers for the books?
 
 Will there be a book 3 for Articles of Faith? (A Black Hawks III, Righteous II etc)
 > Short answer: Not for now; the series is complete at two books. That said, I do know exactly what happens next, so maybe if the commercial demand were _enormous_ ... Never say never.
+
+## Press resources
+
+_Warning: these lads are large_
+
+- [High-res headshot](/images/press/David%20Wragg_copyright%20LSJ%20Roberts.jpg)
+
+### Covers
+
+- [High-res Black Hawks cover](/images/press/TheBlackHawks-cover.jpg)
+- [High-res Righteous cover](/images/press/TheRighteous-cover.jpg)
+- [High-res Hunters cover](/images/press/TheHunters-cover.jpg)
+
+### Official bio
+
+> David Wragg is the author of the Articles of Faith series and the Tales of the Plains trilogy. He lives in Hertfordshire, UK, with his family and an increasing number of animals.
+
+---
 
 ### Image credits on the website
 
