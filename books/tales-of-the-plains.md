@@ -5,7 +5,7 @@ description: The adventures of Ree and Javani
 image: /images/hunters-cover-large.jpg
 sitemap:
     priority: 0.9
-    lastmod: 2023-05-13
+    lastmod: 2023-06-26
     changefreq: monthly
 ---
 # Tales of the Plains
@@ -22,7 +22,7 @@ But one day two groups of professional killers arrive in town, looking for a you
 
 <br>
 
-__Limited edition hardback__: details soon...
+__Limited edition hardback__: [Goldsboro Books](https://www.goldsborobooks.com/product/the-hunters)
 
 __Audiobook__: [Audible.co.uk](https://www.audible.co.uk/pd/The-Hunters-Audiobook/B0C3WDVRDS)
 
