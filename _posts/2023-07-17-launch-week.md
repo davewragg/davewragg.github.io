@@ -16,7 +16,7 @@ image: /images/uploads/thehunters-cropped.jpg
 - Nils at the Fantasy Hive has posted an exclusive (and glowing) [early review](https://fantasy-hive.co.uk/2023/05/the-hunters-by-david-wragg-book-review/). Five stars, would hunt again.
 
 
-- A﻿nd the Fantasy Hive liked it so much, they reviewed it a second time! Thanks to Beth for [this magnificent review](https://fantasy-hive.co.uk/2023/06/the-hunters-by-david-wragg-book-review-2/)
+- A﻿nd the Fantasy Hive liked it so much, they reviewed it a second time! Thanks to Beth for [this magnificent 5-starrer](https://fantasy-hive.co.uk/2023/06/the-hunters-by-david-wragg-book-review-2/)
 
 ## Podcasts
 
