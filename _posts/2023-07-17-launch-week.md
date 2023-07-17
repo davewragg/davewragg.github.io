@@ -21,6 +21,6 @@ image: /images/uploads/thehunters-cropped.jpg
 ## Podcasts
 
 
-- I﻿ was lucky enough to be invited onto the Tiny Bookcase podcast, and enjoyed reading a short story in the [first episode](https://www.buzzsprout.com/1129067/13145828-134-bitching-with-dave-wragg) and a wide-ranging, ludicrous chat in the [second episode](https://www.buzzsprout.com/1129067/13177966).
+- I﻿ was lucky enough to be invited onto the Tiny Bookcase podcast, and enjoyed reading an exclusive short story in the [first episode](https://www.buzzsprout.com/1129067/13145828-134-bitching-with-dave-wragg) and a wide-ranging, ludicrous chat in the [second episode](https://www.buzzsprout.com/1129067/13177966).
 
 ﻿_more to come..._
