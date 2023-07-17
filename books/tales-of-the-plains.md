@@ -5,7 +5,7 @@ description: The adventures of Ree and Javani
 image: /images/hunters-cover-large.jpg
 sitemap:
     priority: 0.9
-    lastmod: 2023-06-26
+    lastmod: 2023-07-17
     changefreq: monthly
 ---
 # Tales of the Plains
@@ -25,6 +25,8 @@ But one day two groups of professional killers arrive in town, looking for a you
 __Limited edition hardback__: [Goldsboro Books](https://www.goldsborobooks.com/product/the-hunters)
 
 __Audiobook__: [Audible.co.uk](https://www.audible.co.uk/pd/The-Hunters-Audiobook/B0C3WDVRDS)
+
+__Signed copies__: [The Broken Binding](https://www.thebrokenbinding.co.uk/product-page/the-hunters-david-wragg)
 
 __Pre-order now__: [Amazon UK](https://www.amazon.co.uk/Hunters-Book-Tales-Plain/dp/0008533725/)
 \| [Amazon US](https://www.amazon.com/Hunters-Tales-Plain-Book-ebook/dp/B0BQQ4MGHT)
