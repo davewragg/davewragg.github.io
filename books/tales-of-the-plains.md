@@ -5,7 +5,7 @@ description: The adventures of Ree and Javani
 image: /images/hunters-cover-large.jpg
 sitemap:
     priority: 0.9
-    lastmod: 2023-07-17
+    lastmod: 2023-07-19
     changefreq: monthly
 ---
 # Tales of the Plains
@@ -37,8 +37,10 @@ __Pre-order now__: [Amazon UK](https://www.amazon.co.uk/Hunters-Book-Tales-Plain
 \| [Books etc](https://www.books-etc.com/p/168739075/the-hunters-9780008533724)
 \| [Bookshop.org](https://uk.bookshop.org/books/the-hunters-9780008533724/9780008533724)
 \| [Foyles][Foyles]
+\| [Google Play](https://play.google.com/store/books/details/David_Wragg_The_Hunters_Tales_of_the_Plains_Book_1?id=TTujEAAAQBAJ)
+\| [Hive](https://www.hive.co.uk/Product/David-Wragg/The-Hunters/27644847)
 \| [Waterstones](https://www.waterstones.com/book/the-hunters/david-wragg/9780008533724)
-\| more to come...
+\| [Wordery](https://wordery.com/hunters-david-wragg-9780008533724)
 
 [Foyles]: https://www.foyles.co.uk/witem/fiction-poetry/the-hunters-(tales-of-the-plain-book-1),david-wragg-9780008533724
 
