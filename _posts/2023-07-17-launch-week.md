@@ -11,12 +11,17 @@ image: /images/uploads/thehunters-cropped.jpg
 
 - Mega-author and best bud Anna Stephens was kind enough to host me on her website for [an interview](https://anna-stephens.com/2023/05/21/author-interview-david-wragg-on-the-hunters/), where I dug into where the new book has come from and where the series is going.
 
+- Over at FanFiAddict, Ed Crocker posed me some intriguing questions in a very fun [author chat](https://fanfiaddict.com/author-chat-david-wragg-articles-of-faith-tales-of-the-plains/) 
+
 ## Reviews
 
 - Nils at the Fantasy Hive has posted an exclusive (and glowing) [early review](https://fantasy-hive.co.uk/2023/05/the-hunters-by-david-wragg-book-review/). Five stars, would hunt again.
 
 
 - A﻿nd the Fantasy Hive liked it so much, they reviewed it a second time! Thanks to Beth for [this magnificent 5-starrer](https://fantasy-hive.co.uk/2023/06/the-hunters-by-david-wragg-book-review-2/)
+
+- FanFiAddict's Ed Crocker gave The Hunters his first 10/10 in [this splendid review](https://fanfiaddict.com/review-the-hunters-tales-of-the-plains-book-1-by-david-wragg/) 
+
 
 ## Podcasts
 
