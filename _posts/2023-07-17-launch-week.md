@@ -11,7 +11,9 @@ image: /images/uploads/thehunters-cropped.jpg
 
 - Mega-author and best bud Anna Stephens was kind enough to host me on her website for [an interview](https://anna-stephens.com/2023/05/21/author-interview-david-wragg-on-the-hunters/), where I dug into where the new book has come from and where the series is going.
 
-- Over at FanFiAddict, Ed Crocker posed me some intriguing questions in a very fun [author chat](https://fanfiaddict.com/author-chat-david-wragg-articles-of-faith-tales-of-the-plains/) 
+- Over at FanFiAddict, Ed Crocker posed me some intriguing questions in a very fun [author chat](https://fanfiaddict.com/author-chat-david-wragg-articles-of-faith-tales-of-the-plains/)
+
+- And Steve Aryan had me over for a [Late Night Talk](https://youtu.be/j1xqArYdUBE) on his Youtube channel, where I nearly let him get a word in edgeways in a very jolly and discursive half hour.
 
 ## Reviews
 
