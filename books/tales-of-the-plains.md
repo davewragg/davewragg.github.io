@@ -28,7 +28,7 @@ __Audiobook__: [Audible.co.uk](https://www.audible.co.uk/pd/The-Hunters-Audioboo
 
 __Signed copies__: [The Broken Binding](https://www.thebrokenbinding.co.uk/product-page/the-hunters-david-wragg)
 
-__Pre-order now__: [Amazon UK](https://www.amazon.co.uk/Hunters-Book-Tales-Plain/dp/0008533725/)
+__Order now__: [Amazon UK](https://www.amazon.co.uk/Hunters-Book-Tales-Plain/dp/0008533725/)
 \| [Amazon US](https://www.amazon.com/Hunters-Tales-Plain-Book-ebook/dp/B0BQQ4MGHT)
 \| [Amazon CA](https://www.amazon.ca/Hunters-Tales-Plain-Book-ebook/dp/B0BQQ4MGHT)
 \| [Amazon AU](https://www.amazon.com.au/Hunters-Tales-Plain-Book-ebook/dp/B0BQQ4MGHT)
