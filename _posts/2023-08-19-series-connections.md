@@ -50,7 +50,7 @@ T﻿he "wild and bearded sect" that go out proselytising into the desert are the
 
 ### ...and so are the Serican upheavals
 
-The Miners' Guild owe their power and existence to the propagation of blasting powder, which Chel and co brought (via Kosh the Iokaran alchemist) to Arowan at the siege. Their little hand-bows are the latest generation of her crossbow engineering.
+The Miners' Guild owe their power and existence to the propagation of blasting powder, which Chel and co brought (via Kosh the Iokaran alchemist) to Arowan at the siege. Their little hand-bows are the latest generation of Kosh's crossbow engineering.
 
 ### Moosh's stories are familiar
 
