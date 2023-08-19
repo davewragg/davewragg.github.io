@@ -53,3 +53,32 @@ __Order now__: [Amazon UK](https://www.amazon.co.uk/Hunters-Book-Tales-Plain/dp/
 ## Resources
 
 - [Maps!](/blog/maps)
+- [Deleted scenes](/deleted-scenes)
+
+---
+
+### Praise for The Hunters
+
+_'Wragg's witty, light-hearted style is once more put to excellent use here in the first of a new series, which bounces brilliantly from humour to pathos to tragedy to absurdity with just the right mix. Great characters, more secrets than you can shake a keg of blasting powder at, and a wonderfully-realised frontier town setting.'_  
+Anna Stephens, author of the GODBLIND trilogy and SONGS OF THE DROWNED
+
+_'Fast paced, hilarious and peppered with the sort of chaos I crave in a fantasy novel, The Hunters is also full of quiet emotional beats that keep you anchored to the characters and the story. You cannot help but have a great time reading this book.'_  
+Jen Williams, author of THE POISON SONG, the COPPER CAT trilogy and TALONSISTER
+
+_"The Hunters is packed to the brim with madness and mayhem, humour and anarchy, mysticism and alchemy, but most of all it holds characters you will absolutely love, and those you will love to hate ... Everything I expected and so much more — achingly heartfelt, addictively fast-paced and hilariously chaotic.”_  
+Nils, THE FANTASY HIVE
+
+_'The action in this book simply does not let up and is among the best I’ve ever read in fantasy ... I highly recommend this one for Grimdark Magazine readers and am very much looking forward to getting my hands Book 2.'_  
+Sally, GRIMDARK MAGAZINE
+
+_“David Wragg is one of the best storytellers out there right now ... The Hunters took me away, and I loved every minute of my adventure in this world ... This story has a vitality to it that isn't to be missed."_  
+Beth, THE FANTASY HIVE
+
+_'With The Hunters, Wragg has ascended to top-tier fantasy status. More fun than a champagne mouthwash.'_  
+Ed, FAN FI ADDICT
+
+_'Fantastic start to the series. I've no idea where the next one could go but I'm 100% along for the ride, and yes, that pun is very much intended.'_  
+Nina, THE FUSSY READER
+
+_'The Hunters ... satisfied my western fantasy cravings in ways I can’t even describe.'_  
+HOLLY HEARTS BOOKS
