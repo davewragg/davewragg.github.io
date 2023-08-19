@@ -18,7 +18,7 @@ N﻿eedless to say, the rest of this post contains spoilers for both Articles of
 
 #### Here we go
 
--﻿--
+---
 
 ### Ree is Loveless
 
@@ -65,6 +65,6 @@ Moosh claims his dad was a commander of the Golden Lancers, a champion pit-fight
 
 S﻿o, how many did you get? Did you spot anything else not mentioned here?
 
--﻿--
+---
 
 Photo by <a href="https://unsplash.com/@clintadair?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Clint Adair</a> on <a href="https://unsplash.com/photos/BW0vK-FA3eg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
