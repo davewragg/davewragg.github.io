@@ -90,6 +90,7 @@ __Order now__: [Amazon UK](https://www.amazon.co.uk/dp/0008331448/)
 - [Maps!](/blog/maps)
 - [A Righteous Playlist](a-righteous-playlist/)
 - [The Floating Prologue](/blog/the-floating-prologue/)
+- [Deleted scenes](/deleted-scenes)
 
 ---
 
