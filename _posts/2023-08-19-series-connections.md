@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Series connections
-excerpt: A smorgasbord of trivial links between Articles of Faith and Tales of
-  the Plains - how many did you spot?
+excerpt: A smorgasbord of links between Articles of Faith and Tales of the Plains
 date: 2023-08-19T15:30:49.966Z
 image: /images/uploads/clint-adair-unsplash-squoosh.jpg
 ---
