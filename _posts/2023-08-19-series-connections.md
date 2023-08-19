@@ -62,7 +62,7 @@ Moosh claims his dad was a commander of the Golden Lancers, a champion pit-fight
 
 
 
-S﻿o, how many did you get? Did you spot anything else not mentioned here?
+S﻿o, how many did you get? Did you spot anything else not mentioned here? I'll be honest, my memory is shot to bits so you really never know your luck...
 
 ---
 
