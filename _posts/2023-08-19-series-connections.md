@@ -6,7 +6,7 @@ excerpt: A smorgasbord of trivial links between Articles of Faith and Tales of
 date: 2023-08-19T15:30:49.966Z
 image: /images/uploads/clint-adair-unsplash-squoosh.jpg
 ---
-T﻿here are, to put it mildly, a fair few connections between my first series (The Black Hawks and The Righteous) and the Tales of the Plains, especially The Hunters. Some of them are fairly significant, lots are utterly trivial, and a fair few you wouldn't even know as the linking material in question was edited out along the way. Soz.
+T﻿here are, to put it mildly, a fair few connections between my first series (The Black Hawks and The Righteous) and Tales of the Plains, especially The Hunters. Some of them are fairly significant, lots are utterly trivial, and a fair few you wouldn't even know as the linking material in question was edited out along the way. Soz.
 
 ## Spoilers below
 
