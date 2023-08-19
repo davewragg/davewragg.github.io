@@ -21,7 +21,7 @@ N﻿eedless to say, the rest of this post contains spoilers for both Articles of
 
 ### Ree is Loveless
 
-Y﻿ou probably guessed that one. It's been 13 years since she rode off in The Righteous, she's stopped dying her hair, but she's still carrying around her sword and one of Kosh's prototype crossbows. She also:
+Y﻿ou probably guessed that one. It's been 13 years since she rode off in The Righteous, she's stopped dyeing her hair, but she's still carrying around her sword and one of Kosh's prototype crossbows. She also:
 * still has her scar (obvs)
 * laments to Javani about the time she abandoned her friends
 * says "river of shit" in honour of the late Dalim
