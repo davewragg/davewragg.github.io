@@ -34,7 +34,7 @@ W﻿hisper's proper name was Kwayedza, and she was indeed a general. If you got 
 
 ### The blue stone came from Ruumi
 
-T﻿he jewel that Javani almost loses in her gambit (then Aki does from the wagon) is the same one that Ree/Loveless took as payment from Reaver Nearly-Queen Ruumi in payment for removing her brother from leadership contention. It also featured in a couple of [deleted scenes](/deleted-scenes), and may, perhaps, one day be seen again...
+T﻿he jewel that Javani almost loses in her gambit (then Aki does from the wagon) is the same one that Ree/Loveless took from Reaver Nearly-Queen Ruumi in payment for removing her brother from leadership contention. It also featured in a couple of [deleted scenes](/deleted-scenes), and may, perhaps, one day be seen again...
 
 ### Siavash's attendant Ulfat used to work for the Rau Rel
 
