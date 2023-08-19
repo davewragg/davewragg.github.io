@@ -21,6 +21,8 @@ But if you want to know what might have been (and make your own judgement on its
 - [Foss and Loveless try to gather support 2](/deleted-scenes/foss-and-loveless-2)
 - [Rennic meets his old mentor](/deleted-scenes/rennic)
 
+...And don't forget the [Floating Prologue](/blog/the-floating-prologue/) which can be applied to either _The Black Hawks_ or _The Righteous_ as you see fit.
+
 ## The Hunters
 
 - [Sneaking into Town](/deleted-scenes/hunters)
