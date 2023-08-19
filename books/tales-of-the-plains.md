@@ -20,7 +20,7 @@ Ree is a woman with a violent past – a past she is eager to put behind her. Af
 
 But one day two groups of professional killers arrive in town, looking for a young girl and an white-haired woman. A deadly chase through deserts, mountains, and mines begins. And Ree will have to discover her former self if she is to keep them both alive.
 
-<br>
+<br style="clear:both">
 
 __Limited edition hardback__: [Goldsboro Books](https://www.goldsborobooks.com/product/the-hunters)
 
@@ -45,8 +45,6 @@ __Order now__: [Amazon UK](https://www.amazon.co.uk/Hunters-Book-Tales-Plain/dp/
 [Foyles]: https://www.foyles.co.uk/witem/fiction-poetry/the-hunters-(tales-of-the-plain-book-1),david-wragg-9780008533724
 
 [Find my local bookshop (UK)](http://www.booksellers.org.uk/bookshopsearch)
-
-[&laquo; Back to Books](/books)
 
 ---
 
@@ -82,3 +80,5 @@ Nina, THE FUSSY READER
 
 _'The Hunters ... satisfied my western fantasy cravings in ways I can’t even describe.'_  
 HOLLY HEARTS BOOKS
+
+[&laquo; Back to Books](/books)
