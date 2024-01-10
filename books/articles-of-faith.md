@@ -28,7 +28,7 @@ __Prepare to join the Black Hawks.__
 
 __Signed copies__: [The Broken Binding](https://www.thebrokenbinding.co.uk/product-page/the-black-hawks-david-wragg)
 
-__Limited edition hardback__: [Goldsboro Books](https://www.goldsborobooks.com/product/the-black-hawks-exclusive-hardback-edition)
+__Limited edition hardback__: [Goldsboro Books](https://goldsborobooks.com/products/the-black-hawks-exclusive-hardback-edition)
 
 __Audiobook__: [Audible.co.uk](https://www.audible.co.uk/pd/The-Black-Hawks-Audiobook/000833143X)
 
@@ -61,7 +61,7 @@ __Are you ready for the Righteous?__
 
 __Signed copies__: [The Broken Binding](https://www.thebrokenbinding.co.uk/product-page/the-righteous-david-wragg)
 
-__Limited edition hardback__: [Goldsboro Books](https://www.goldsborobooks.com/product/the-righteous-exclusive-hardback-edition)
+__Limited edition hardback__: [Goldsboro Books](https://goldsborobooks.com/products/the-righteous-exclusive-hardback-edition)
 
 __Audiobook__: [Audible.co.uk](https://www.audible.co.uk/pd/The-Righteous-Audiobook/0008331464)
 
