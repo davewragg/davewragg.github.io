@@ -22,7 +22,7 @@ But one day two groups of professional killers arrive in town, looking for a you
 
 <br style="clear:both">
 
-__Limited edition hardback__: [Goldsboro Books](https://www.goldsborobooks.com/product/the-hunters)
+__Limited edition hardback__: [Goldsboro Books](https://goldsborobooks.com/products/the-hunters)
 
 __Audiobook__: [Audible.co.uk](https://www.audible.co.uk/pd/The-Hunters-Audiobook/B0C3WDVRDS)
 
