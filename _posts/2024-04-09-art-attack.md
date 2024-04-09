@@ -9,4 +9,4 @@ A little while ago I asked the phenomenally talented (and multi-award winning) w
 
 In the meantime, if you'd like to commission Jen yourself, you can get in touch [on her website](https://www.sennydreadful.co.uk/contact).
 
-More news to follow on the (different?!) paperback cover, as well as a title and cover reveal for Book 2 - watch this space, or [join my mailing list](http://eepurl.com/gBvwHH) to be the first to hear when things eventually happen!
+More news will follow soon on the (different?!) paperback cover, as well as a title and cover reveal for Book 2 - watch this space, or [join my mailing list](http://eepurl.com/gBvwHH) to be the first to hear when things eventually happen!
