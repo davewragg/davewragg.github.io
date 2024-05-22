@@ -4,12 +4,14 @@ title: About
 description: If you are curious, God help you
 image: /images/my-goddam-face.jpg
 sitemap:
-    priority: 0.7
-    lastmod: 2023-07-20
-    changefreq: weekly
+  priority: 0.7
+  lastmod: 2023-07-20
+  changefreq: weekly
 ---
+
 <span class="image right face"><img src="{{ "/images/my-goddam-face.jpg" | absolute_url }}" alt="author photo (c) LSJ Roberts" />
 <sup>&copy; LSJ Roberts</sup></span>
+
 ## About me
 
 I'm Dave Wragg. Hello. I'm from the UK, and have had many jobs. Most of them involved computers. I'm getting on a bit now, and I live in Hertfordshire. Yes, I have cats. And a dog now, too.
@@ -23,21 +25,31 @@ For anything rights-related, I'm represented by <a href="http://www.dhhliterarya
 ## FAQ
 
 Are you the same David Wragg who writes military histories?
+
 > No
 
 Are you Dave or David?
+
 > Depends who you ask. I'll answer to either.
 
 When is The Hunters out?
-> July 2023 for hardback and ebook, other dates to follow.
+
+> July 2023 for hardback, audio and ebook, July 2024 for paperback.
+
+When is The Company of the Wolf out?
+
+> August 2024 for hardback, audio and ebook, presumed August 2025 for paperback.
 
 Is the new series a sequel to Articles of Faith?
+
 > It's set in the same world, 13 years after the events of The Righteous, but can be read completely standalone - although there might be one or two characters who pop up in both.
 
 Who did the covers for the books?
-> The original cover design is by [Micaela Alcaino](https://www.micaelaalcaino.com/). The artist for The Black Hawks was [Richard Anderson](http://www.flaptrapsart.com/), for The Righteous and The Hunters it was [Gavin Reece](https://gavinreece.myportfolio.com/).
+
+> The original cover design is by [Micaela Alcaino](https://www.micaelaalcaino.com/). The artist for The Black Hawks was [Richard Anderson](http://www.flaptrapsart.com/), for The Righteous and the Tales of the Plains covers it was [Gavin Reece](https://gavinreece.myportfolio.com/). Tales of the Plains cover designs are by Emily Langford.
 
 Will there be a book 3 for Articles of Faith? (A Black Hawks III, Righteous II etc)
+
 > Short answer: Not for now; the series is complete at two books. That said, I do know exactly what happens next, so maybe if the commercial demand were _enormous_ ... Never say never.
 
 ## Press resources
@@ -51,6 +63,7 @@ _Warning: these lads are large_
 - [High-res Black Hawks cover](/images/press/TheBlackHawks-cover.jpg)
 - [High-res Righteous cover](/images/press/TheRighteous-cover.jpg)
 - [High-res Hunters cover](/images/press/TheHunters-cover.jpg)
+- [High-res Company of the Wolf cover](/images/press/CompanyOfTheWolf-cover.png)
 
 ### Official bio
 

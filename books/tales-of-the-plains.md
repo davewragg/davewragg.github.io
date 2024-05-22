@@ -4,17 +4,18 @@ title: Tales of the Plains
 description: The adventures of Ree and Javani
 image: /images/hunters-cover-large.jpg
 sitemap:
-    priority: 0.9
-    lastmod: 2023-07-19
-    changefreq: monthly
+  priority: 0.9
+  lastmod: 2024-04-26
+  changefreq: monthly
 ---
+
 # Tales of the Plains
 
 <a href="/images/hunters-cover-large.jpg"><span class="image left book"><img src="{{ "/images/hunters-cover.jpg" | absolute_url }}" alt="The Hunters cover" /></span><a>
 
 ## The Hunters (July 2023)
 
-__It's 13 years since the events of The Righteous, and the world is changed...__
+**It's 13 years since the events of The Righteous, and the world is changed...**
 
 Ree is a woman with a violent past – a past she is eager to put behind her. After years of wandering, she and her niece, Javani, have built a small farm in mining country, at the edge of the known world, and Ree is keeping her head down.
 
@@ -22,13 +23,13 @@ But one day two groups of professional killers arrive in town, looking for a you
 
 <br style="clear:both">
 
-__Limited edition hardback__: [Goldsboro Books](https://goldsborobooks.com/products/the-hunters)
+**Limited edition hardback**: [Goldsboro Books](https://goldsborobooks.com/products/the-hunters)
 
-__Audiobook__: [Audible.co.uk](https://www.audible.co.uk/pd/The-Hunters-Audiobook/B0C3WDVRDS)
+**Audiobook**: [Audible.co.uk](https://www.audible.co.uk/pd/The-Hunters-Audiobook/B0C3WDVRDS)
 
-__Signed copies__: [The Broken Binding](https://www.thebrokenbinding.co.uk/product-page/the-hunters-david-wragg)
+**Signed copies**: [The Broken Binding](https://www.thebrokenbinding.co.uk/product-page/the-hunters-david-wragg)
 
-__Order now__: [Amazon UK](https://www.amazon.co.uk/Hunters-Book-Tales-Plain/dp/0008533725/)
+**Order now**: [Amazon UK](https://www.amazon.co.uk/Hunters-Book-Tales-Plain/dp/0008533725/)
 \| [Amazon US](https://www.amazon.com/Hunters-Tales-Plain-Book-ebook/dp/B0BQQ4MGHT)
 \| [Amazon CA](https://www.amazon.ca/Hunters-Tales-Plain-Book-ebook/dp/B0BQQ4MGHT)
 \| [Amazon AU](https://www.amazon.com.au/Hunters-Tales-Plain-Book-ebook/dp/B0BQQ4MGHT)
@@ -48,10 +49,29 @@ __Order now__: [Amazon UK](https://www.amazon.co.uk/Hunters-Book-Tales-Plain/dp/
 
 ---
 
+<a href="/images/CoW-cover-large.webp"><span class="image right book"><img src="{{ "/images/CoW-cover.jpg" | absolute_url }}" alt="The Company of the Wolf cover" /></span><a>
+
+## The Company of the Wolf (August 2024)
+
+**Full of David Wragg’s unique blend of humour, heart, and high stakes, The Company of the Wolf is the epic next instalment in the Tales of the Plains trilogy.**
+
+Seeking a better life, Ree and Javani have travelled west into the mountains, and left their pasts - and their troubles - behind. But new places bring new problems, and when they stumble across a lone traveller under bandit attack, they make the mistake of lending a hand.
+
+Forced to take refuge in the traveller's village, they quickly find allies among the lush, wooded hills. But then the true nature of the bandits is revealed.
+
+With winter approaching and a vengeful company of mercenaries circling like wolves, Ree and Javani must uncover the secrets of this peaceful valley . . . or risk the ruin of it all.
+
+**Limited edition hardback**: [Goldsboro Books](https://goldsborobooks.com/products/)
+
+[Find my local bookshop (UK)](http://www.booksellers.org.uk/bookshopsearch)
+
+---
+
 ## Resources
 
 - [Maps!](/blog/maps)
 - [Deleted scenes](/deleted-scenes)
+- [Art Attack](/blog/art-attack)
 
 ---
 
@@ -62,6 +82,9 @@ Anna Stephens, author of the GODBLIND trilogy and SONGS OF THE DROWNED
 
 _'Fast paced, hilarious and peppered with the sort of chaos I crave in a fantasy novel, The Hunters is also full of quiet emotional beats that keep you anchored to the characters and the story. You cannot help but have a great time reading this book.'_  
 Jen Williams, author of THE POISON SONG, the COPPER CAT trilogy and TALONSISTER
+
+_'Filled with outrageous dark humor and razor-sharp prose - it's just so much fun.'_
+Sunyi Dean, Sunday Times Bestselling author of THE BOOK EATERS
 
 _"The Hunters is packed to the brim with madness and mayhem, humour and anarchy, mysticism and alchemy, but most of all it holds characters you will absolutely love, and those you will love to hate ... Everything I expected and so much more — achingly heartfelt, addictively fast-paced and hilariously chaotic.”_  
 Nils, THE FANTASY HIVE
@@ -80,5 +103,19 @@ Nina, THE FUSSY READER
 
 _'The Hunters ... satisfied my western fantasy cravings in ways I can’t even describe.'_  
 HOLLY HEARTS BOOKS
+
+### Praise for The Company of the Wolf
+
+_'Dave Wragg is one of my favourite writers because he is so bloody entertaining! The Company of the Wolf is no exception: it is full of whip-smart dialogue, brutal action and brilliant characters. It is barnstorming modern fantasy and not to be missed.'_  
+Gareth Brown, Sunday Times Bestselling author of THE BOOK OF DOORS
+
+_'Book 2 of the Tales of the Plains sees higher stakes, a bigger vista, a badder villain, a taller Javani, and even more classic Wragg one-liners. A fun-filled romp with a serious heart and a cast of loveable rogues.'_  
+Anna Stephens, author of the GODBLIND trilogy and SONGS OF THE DROWNED
+
+_'Diamond wit, blade-sharp dialogue and a cast of characters so compelling I’d give my right hand to save them were they real… this is not just Wragg’s best book, but everything I adore about modern fantasy in one volume.'_  
+Ed Crocker, author of Epic fantasy trilogy LIGHTFALL
+
+_'Wragg's brand of fantasy deserves its own name: grassroots fantasy. Small in scale, large in heart, with underdog heroes you can't help but root for.'_  
+Amber A. Logan, author of THE SECRET GARDEN OF YANAGI INN
 
 [&laquo; Back to Books](/books)
