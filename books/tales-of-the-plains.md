@@ -33,7 +33,6 @@ But one day two groups of professional killers arrive in town, looking for a you
 \| [Amazon US](https://www.amazon.com/Hunters-Tales-Plain-Book-ebook/dp/B0BQQ4MGHT)
 \| [Amazon CA](https://www.amazon.ca/Hunters-Tales-Plain-Book-ebook/dp/B0BQQ4MGHT)
 \| [Amazon AU](https://www.amazon.com.au/Hunters-Tales-Plain-Book-ebook/dp/B0BQQ4MGHT)
-\| [Book Depository](https://www.bookdepository.com/Hunters-David-Wragg/9780008533724)
 \| [Blackwells](https://blackwells.co.uk/bookshop/product/The-Hunters-by-David-Wragg/9780008533724)
 \| [Books etc](https://www.books-etc.com/p/168739075/the-hunters-9780008533724)
 \| [Bookshop.org](https://uk.bookshop.org/books/the-hunters-9780008533724/9780008533724)
@@ -61,7 +60,24 @@ Forced to take refuge in the traveller's village, they quickly find allies among
 
 With winter approaching and a vengeful company of mercenaries circling like wolves, Ree and Javani must uncover the secrets of this peaceful valley . . . or risk the ruin of it all.
 
-**Limited edition hardback**: [Goldsboro Books](https://goldsborobooks.com/products/)
+**Limited edition hardback**: [Goldsboro Books]()
+
+**Audiobook**: [Audible.co.uk]()
+
+**Signed copies**: [The Broken Binding]()
+
+**Order now**: [Amazon UK](https://www.amazon.co.uk/Company-Wolf-Tales-Plains-Book-ebook/dp/B0CVL8HGBL/)
+\| [Amazon US](https://www.amazon.com/Company-Wolf-Tales-Plains-Book-ebook/dp/B0CVL8HGBL/)
+\| [Amazon CA](https://www.amazon.ca/Company-Wolf-Tales-Plains-Book-ebook/dp/B0CVL8HGBL/)
+\| [Amazon AU](https://www.amazon.com.au/Company-Wolf-Tales-Plains-Book-ebook/dp/B0CVL8HGBL/)
+\| [Blackwells](https://blackwells.co.uk/bookshop/product/The-Company-of-the-Wolf-by-David-Wragg/9780008533779)
+\| [Bookshop.org](https://uk.bookshop.org/p/books/untitled-wragg-2-david-wragg/7620901?ean=9780008533779)
+\| [Foyles][Foyles]
+\| [Google Play](https://play.google.com/store/books/details/David_Wragg_The_Company_of_the_Wolf_Tales_of_the_P?id=nEv0EAAAQBAJ)
+\| [Hive](https://www.hive.co.uk/Product/David-Wragg/The-Company-of-the-Wolf/29873635)
+\| [Waterstones](https://www.waterstones.com/book/the-company-of-the-wolf/david-wragg/9780008533779)
+
+[Foyles]: https://www.foyles.co.uk/book/the-company-of-the-wolf/david-wragg/9780008533779
 
 [Find my local bookshop (UK)](http://www.booksellers.org.uk/bookshopsearch)
 
