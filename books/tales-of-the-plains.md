@@ -19,7 +19,7 @@ sitemap:
 
 Ree is a woman with a violent past – a past she is eager to put behind her. After years of wandering, she and her niece, Javani, have built a small farm in mining country, at the edge of the known world, and Ree is keeping her head down.
 
-But one day two groups of professional killers arrive in town, looking for a young girl and an white-haired woman. A deadly chase through deserts, mountains, and mines begins. And Ree will have to discover her former self if she is to keep them both alive.
+But one day two groups of professional killers arrive in town, looking for a young girl and a white-haired woman. A deadly chase through deserts, mountains, and mines begins. And Ree will have to discover her former self if she is to keep them both alive.
 
 <br style="clear:both">
 
