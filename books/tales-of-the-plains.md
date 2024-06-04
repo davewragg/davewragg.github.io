@@ -5,7 +5,7 @@ description: The adventures of Ree and Javani
 image: /images/hunters-cover-large.jpg
 sitemap:
   priority: 0.9
-  lastmod: 2024-04-26
+  lastmod: 2024-06-04
   changefreq: monthly
 ---
 
@@ -60,11 +60,13 @@ Forced to take refuge in the traveller's village, they quickly find allies among
 
 With winter approaching and a vengeful company of mercenaries circling like wolves, Ree and Javani must uncover the secrets of this peaceful valley . . . or risk the ruin of it all.
 
-**Limited edition hardback**: [Goldsboro Books]()
+_Details of signed books and special editions coming soon..._
 
-**Audiobook**: [Audible.co.uk]()
+<!-- **Limited edition hardback**: [Goldsboro Books]() -->
 
-**Signed copies**: [The Broken Binding]()
+**Audiobook**: [Audible.co.uk](https://www.audible.co.uk/pd/The-Company-of-the-Wolf-Audiobook/B0D6142N5C)
+
+<!-- **Signed copies**: [The Broken Binding]() -->
 
 **Order now**: [Amazon UK](https://www.amazon.co.uk/Company-Wolf-Tales-Plains-Book-ebook/dp/B0CVL8HGBL/)
 \| [Amazon US](https://www.amazon.com/Company-Wolf-Tales-Plains-Book-ebook/dp/B0CVL8HGBL/)
@@ -121,6 +123,9 @@ _'The Hunters ... satisfied my western fantasy cravings in ways I can’t even d
 HOLLY HEARTS BOOKS
 
 ### Praise for The Company of the Wolf
+
+_"Gritty, sharp, yet criminally funny!"_  
+Sunyi Dean, Sunday Times Bestselling author of THE BOOK EATERS
 
 _'Dave Wragg is one of my favourite writers because he is so bloody entertaining! The Company of the Wolf is no exception: it is full of whip-smart dialogue, brutal action and brilliant characters. It is barnstorming modern fantasy and not to be missed.'_  
 Gareth Brown, Sunday Times Bestselling author of THE BOOK OF DOORS
