@@ -104,13 +104,13 @@ Jen Williams, author of THE POISON SONG, the COPPER CAT trilogy and TALONSISTER
 _'Filled with outrageous dark humor and razor-sharp prose - it's just so much fun.'_
 Sunyi Dean, Sunday Times Bestselling author of THE BOOK EATERS
 
-_"The Hunters is packed to the brim with madness and mayhem, humour and anarchy, mysticism and alchemy, but most of all it holds characters you will absolutely love, and those you will love to hate ... Everything I expected and so much more — achingly heartfelt, addictively fast-paced and hilariously chaotic.”_  
+_'The Hunters is packed to the brim with madness and mayhem, humour and anarchy, mysticism and alchemy, but most of all it holds characters you will absolutely love, and those you will love to hate ... Everything I expected and so much more — achingly heartfelt, addictively fast-paced and hilariously chaotic.'_  
 Nils, THE FANTASY HIVE
 
 _'The action in this book simply does not let up and is among the best I’ve ever read in fantasy ... I highly recommend this one for Grimdark Magazine readers and am very much looking forward to getting my hands Book 2.'_  
 Sally, GRIMDARK MAGAZINE
 
-_“David Wragg is one of the best storytellers out there right now ... The Hunters took me away, and I loved every minute of my adventure in this world ... This story has a vitality to it that isn't to be missed."_  
+_'David Wragg is one of the best storytellers out there right now ... The Hunters took me away, and I loved every minute of my adventure in this world ... This story has a vitality to it that isn't to be missed.'_  
 Beth, THE FANTASY HIVE
 
 _'With The Hunters, Wragg has ascended to top-tier fantasy status. More fun than a champagne mouthwash.'_  
@@ -124,7 +124,7 @@ HOLLY HEARTS BOOKS
 
 ### Praise for The Company of the Wolf
 
-_"Gritty, sharp, yet criminally funny!"_  
+_'Gritty, sharp, yet criminally funny!'_  
 Sunyi Dean, Sunday Times Bestselling author of THE BOOK EATERS
 
 _'Dave Wragg is one of my favourite writers because he is so bloody entertaining! The Company of the Wolf is no exception: it is full of whip-smart dialogue, brutal action and brilliant characters. It is barnstorming modern fantasy and not to be missed.'_  
@@ -132,6 +132,12 @@ Gareth Brown, Sunday Times Bestselling author of THE BOOK OF DOORS
 
 _'Book 2 of the Tales of the Plains sees higher stakes, a bigger vista, a badder villain, a taller Javani, and even more classic Wragg one-liners. A fun-filled romp with a serious heart and a cast of loveable rogues.'_  
 Anna Stephens, author of the GODBLIND trilogy and SONGS OF THE DROWNED
+
+_'A tale full of heart: heart warming, wrenching and stopping in equal measure. I love Wragg's wild, western-inspired world and its rabble of humorously and sensitively crafted characters, the kind that keep you company long after reading.'_  
+Cari Thomas, Sunday Times Bestselling author of THREADNEEDLE
+
+_'A story about growing up, growing old, dreams, betrayal, greed and consequences, all wrapped up in a neat package of action and tied off with a perky bow of banter. I enjoyed hating the villain almost as much as I enjoyed rooting for Ree and Javani.'_  
+Peter Newman, Gemmell Award-winning author of THE VAGRANT and THE DEATHLESS
 
 _'Diamond wit, blade-sharp dialogue and a cast of characters so compelling I’d give my right hand to save them were they real… this is not just Wragg’s best book, but everything I adore about modern fantasy in one volume.'_  
 Ed Crocker, author of Epic fantasy trilogy LIGHTFALL
