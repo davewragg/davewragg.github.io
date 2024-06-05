@@ -14,7 +14,7 @@ B﻿ut the villagers are not alone in the valley: a﻿ company of mercenaries lu
 > *‘Gritty, sharp, yet criminally funny!’*
 >﻿  
 > Sunyi Dean, Sunday Times Bestselling author of THE BOOK EATERS  
-> [more...](/books/tales-of-the-plains#praise-for-the-company-of-the-wolf)
+> [more p﻿raise...](/books/tales-of-the-plains#praise-for-the-company-of-the-wolf)
 
 D﻿espite being the second in the series, it's possible to read The Company of the Wolf completely standalone should you wish - although naturally I'd recommend purchasing and reading The Hunters several times beforehand. Both will be required to get the most from book 3, which should be with us in Summer 2025.
 
