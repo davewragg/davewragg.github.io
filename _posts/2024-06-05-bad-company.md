@@ -12,7 +12,7 @@ T﻿he story follows Ree and Javani from The Hunters as they set out across the 
 B﻿ut the villagers are not alone in the valley: a﻿ company of mercenaries lurks in the wooded hills, and they are hungry. And despite - possibly - making everything worse, only Ree and Javani stand a chance of averti﻿ng b﻿loody catastrophe.
 
 > *‘Gritty, sharp, yet criminally funny!’*
->﻿
+>﻿  
 > Sunyi Dean, Sunday Times Bestselling author of THE BOOK EATERS  
 > [more...](/books/tales-of-the-plains#praise-for-the-company-of-the-wolf)
 
