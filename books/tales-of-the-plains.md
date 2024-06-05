@@ -60,13 +60,13 @@ Forced to take refuge in the traveller's village, they quickly find allies among
 
 With winter approaching and a vengeful company of mercenaries circling like wolves, Ree and Javani must uncover the secrets of this peaceful valley . . . or risk the ruin of it all.
 
-_Details of signed books and special editions coming soon..._
+_Details of special editions coming soon..._
 
 <!-- **Limited edition hardback**: [Goldsboro Books]() -->
 
 **Audiobook**: [Audible.co.uk](https://www.audible.co.uk/pd/The-Company-of-the-Wolf-Audiobook/B0D6142N5C)
 
-<!-- **Signed copies**: [The Broken Binding]() -->
+**Signed copies**: [The Broken Binding](https://www.thebrokenbinding.co.uk/product-page/the-company-of-the-wolf-david-wragg)
 
 **Order now**: [Amazon UK](https://www.amazon.co.uk/Company-Wolf-Tales-Plains-Book-ebook/dp/B0CVL8HGBL/)
 \| [Amazon US](https://www.amazon.com/Company-Wolf-Tales-Plains-Book-ebook/dp/B0CVL8HGBL/)
