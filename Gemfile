@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.8.5"
+gem "jekyll", "~> 3.9.4"
 gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem 'jekyll-mentions'
@@ -9,6 +9,7 @@ gem 'jekyll-paginate'
 gem 'jekyll-seo-tag'
 gem 'liquid_pluralize'
 gem 'liquid_reading_time'
+gem 'kramdown-parser-gfm'
 
 group :jekyll_plugins do
   gem "jekyll-netlify", git: 'https://github.com/jayvdb/jekyll-netlify'
