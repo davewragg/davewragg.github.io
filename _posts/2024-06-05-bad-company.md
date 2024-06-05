@@ -11,9 +11,9 @@ T﻿he story follows Ree and Javani from The Hunters as they set out across the 
 
 B﻿ut the villagers are not alone in the valley: a﻿ company of mercenaries lurks in the wooded hills, and they are hungry. And despite - possibly - making everything worse, only Ree and Javani stand a chance of averti﻿ng b﻿loody catastrophe.
 
-> *‘Gritty, sharp, yet criminally funny!’*  
-> Sunyi Dean, Sunday Times Bestselling author of THE BOOK EATERS
->
+> *‘Gritty, sharp, yet criminally funny!’*
+>﻿
+> Sunyi Dean, Sunday Times Bestselling author of THE BOOK EATERS  
 > [more...](/books/tales-of-the-plains#praise-for-the-company-of-the-wolf)
 
 D﻿espite being the second in the series, it's possible to read The Company of the Wolf completely standalone should you wish - although naturally I'd recommend purchasing and reading The Hunters several times beforehand. Both will be required to get the most from book 3, which should be with us in Summer 2025.
