@@ -60,9 +60,7 @@ Forced to take refuge in the traveller's village, they quickly find allies among
 
 With winter approaching and a vengeful company of mercenaries circling like wolves, Ree and Javani must uncover the secrets of this peaceful valley . . . or risk the ruin of it all.
 
-_Details of special editions coming soon..._
-
-<!-- **Limited edition hardback**: [Goldsboro Books]() -->
+**First edition hardback**: [Goldsboro Books](https://goldsborobooks.com/products/the-company-of-the-wolf)
 
 **Audiobook**: [Audible.co.uk](https://www.audible.co.uk/pd/The-Company-of-the-Wolf-Audiobook/B0D6142N5C)
 
