@@ -63,7 +63,7 @@ _Warning: these lads are large_
 - [High-res Black Hawks cover](/images/press/TheBlackHawks-cover.jpg)
 - [High-res Righteous cover](/images/press/TheRighteous-cover.jpg)
 - [High-res Hunters cover](/images/press/TheHunters-cover.jpg)
-- [High-res Company of the Wolf cover](/images/press/CompanyOfTheWolf-cover.jpg)
+- [High-res Company of the Wolf cover](/images/press/TheCompanyOfTheWolf-cover.jpg)
 
 ### Official bio
 
