@@ -88,24 +88,7 @@ sitemap:
   									<header>
   										<h2><a href="#">Latest skoots</a></h2>
   									</header>
-					  <!-- <a class="twitter-timeline" href="https://twitter.com/itsdavewragg?ref_src=twsrc%5Etfw"
-						 data-chrome="noborders nofooter" data-tweet-limit="3" data-height="550">Tweets by
-						  itsdavewragg</a>
-					  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-
-					  <!-- <iframe allowfullscreen sandbox="allow-top-navigation allow-scripts" width="460" height="550" src="https://www.mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fmastodon.me.uk%2Fusers%2Fitsdavewragg&theme=dark&size=100&header=true&replies=false&boosts=false"></iframe> -->
-					<div style="width: 540px; height: 550px; overflow:auto">
-						<bsky-embed
-							username="itsdavewragg.bsky.social"
-							mode="light"
-							limit="3"
-							link-target="_blank"
-							link-image="false"
-							custom-styles="img { max-width:460px }"
-						>
-						</bsky-embed>
-					</div>
-
+						<link rel="stylesheet" href="https://embedbsky.com/embedbsky.com-master-min.css" /><div id="embedbsky-com-timeline-embed"></div><script>let containerWidth=550,containerHeight=600;const getHtml=async t=>{const e=await fetch(t);return 200!==e.status?'<p><strong>No feed data could be located</p></strong>':e.text()};document.addEventListener('DOMContentLoaded',(async()=>{const t=(new Date).toISOString(),e=document.getElementById('embedbsky-com-timeline-embed');e.style.width=`${containerWidth}px`,e.style.height=`${containerHeight}px`;const n=await getHtml(`https://embedbsky.com/feeds/90f22ea96bdc15f825a454f8511eba24562ebca1ab5b51a4f50acd27435ad54b.html?v=${t}`);e.innerHTML=n}));</script>
 				  </article>
                   {% endif %}
                 {% endfor %}
