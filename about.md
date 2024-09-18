@@ -5,7 +5,7 @@ description: If you are curious, God help you
 image: /images/my-goddam-face.jpg
 sitemap:
   priority: 0.7
-  lastmod: 2023-07-20
+  lastmod: 2024-09-18
   changefreq: weekly
 ---
 
@@ -18,7 +18,7 @@ I'm Dave Wragg. Hello. I'm from the UK, and have had many jobs. Most of them inv
 
 ## Contact me
 
-You can find me on Mastodon at <a href="https://{{site.mastodon.instance}}/{{site.mastodon.username}}" rel="nofollow" title="Mastodon">{{site.mastodon.username}}@{{site.mastodon.instance}}</a>. I'm also on Twitter (while it lasts) at <a href="https://www.twitter.com/{{ site.twitter.username }}">@{{ site.twitter.username }}</a>, and on BlueSky at [@itsdavewragg.bsky.social](https://bsky.app/profile/itsdavewragg.bsky.social). For my latest socials, check my [Bio.link](https://bio.link/davewragg), as they're bound to keep changing while this nonsense persists.
+You can find me on BlueSky at [@davewragg.com](https://bsky.app/profile/davewragg.com). For my other socials, check my [Bio.link](https://bio.link/davewragg), as they're bound to keep changing while this nonsense persists.
 
 For anything rights-related, I'm represented by <a href="http://www.dhhliteraryagency.com/harry-illingworth.html">Harry Illingworth</a> at the DHH Literary Agency. For anything else, try the form at the very bottom of the page.
 
@@ -38,7 +38,7 @@ When is The Hunters out?
 
 When is The Company of the Wolf out?
 
-> August 2024 for hardback, audio and ebook, presumed August 2025 for paperback.
+> August 2024 for hardback and ebook, October 2024 for audiobook, presumed August 2025 for paperback.
 
 Is the new series a sequel to Articles of Faith?
 
