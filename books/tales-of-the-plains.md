@@ -97,22 +97,24 @@ Javani is ready for her own adventures. She’s no longer a child and determined
 
 With rebellion stirring, the past Ree's been running from and the future Javani’s striving for will collide. As tensions rise between mother and daughter, Guild and rebels - and with the fate of the Plains on the line - all that's certain is an explosive finale on the Iron Road.
 
-**First edition hardback**: [Goldsboro Books](https://goldsborobooks.com/) tbd
+<!-- **First edition hardback**: [Goldsboro Books](https://goldsborobooks.com/) tbd-->
 
-**Audiobook**: [Audible.co.uk](https://www.audible.co.uk/) tbd
+<!-- **Audiobook**: [Audible.co.uk](https://www.audible.co.uk/) tbd -->
 
-**Signed copies**: [The Broken Binding](https://www.thebrokenbinding.co.uk/) tbd
+<!-- **Signed copies**: [The Broken Binding](https://www.thebrokenbinding.co.uk/) tbd -->
+
+<!-- \| [Amazon US]() tbd -->
+<!-- \| [Amazon CA]() tbd -->
 
 **Order now**: [Amazon UK](https://www.amazon.co.uk/dp/0008533822/)
-\| [Amazon US]() tbd
-\| [Amazon CA]() tbd
-\| [Amazon AU]() tbd
+\| [Amazon AU](https://www.amazon.com.au/gp/product/B0DW2BXPXK)
 \| [Blackwells](https://blackwells.co.uk/bookshop/product/9780008533823)
 \| [Bookshop.org](https://uk.bookshop.org/p/books/the-iron-road-david-wragg/7751454?ean=9780008533823)
 \| [Foyles](https://www.foyles.co.uk/book/the-iron-road/david-wragg/9780008533823)
-\| [Google Play]() tbd
-\| [Hive](https://www.foyles.co.uk/book/the-iron-road/david-wragg/9780008533823) tbd
+\| [Google Play](https://play.google.com/store/books/details/David_Wragg_The_Iron_Road_Tales_of_the_Plains_Book?id=lxREEQAAQBAJ&hl=en_GB)
 \| [Waterstones](https://www.waterstones.com/book/9780008533823)
+
+<!-- \| [Hive]() tbd -->
 
 [Find my local bookshop (UK)](http://www.booksellers.org.uk/bookshopsearch)
 
