@@ -97,7 +97,7 @@ Javani is ready for her own adventures. She’s no longer a child and determined
 
 With rebellion stirring, the past Ree's been running from and the future Javani’s striving for will collide. As tensions rise between mother and daughter, Guild and rebels - and with the fate of the Plains on the line - all that's certain is an explosive finale on the Iron Road.
 
-<!-- **First edition hardback**: [Goldsboro Books](https://goldsborobooks.com/) tbd-->
+**First edition hardback**: [Goldsboro Books](https://goldsborobooks.com/products/the-iron-road)
 
 <!-- **Audiobook**: [Audible.co.uk](https://www.audible.co.uk/) tbd -->
 
