@@ -5,7 +5,7 @@ description: If you are curious, God help you
 image: /images/my-goddam-face.jpg
 sitemap:
   priority: 0.7
-  lastmod: 2024-09-18
+  lastmod: 2025-01-25
   changefreq: weekly
 ---
 
@@ -14,11 +14,11 @@ sitemap:
 
 ## About me
 
-I'm Dave Wragg. Hello. I'm from the UK, and have had many jobs. Most of them involved computers. I'm getting on a bit now, and I live in Hertfordshire. Yes, I have cats. And a dog now, too.
+I'm Dave Wragg. Hello. I'm from the UK, and have had many jobs. Most of them involved computers. I'm getting on a bit now, and I live in Hertfordshire. I live with cats, a dog, rabbits, and children.
 
 ## Contact me
 
-You can find me on BlueSky at [@davewragg.com](https://bsky.app/profile/davewragg.com). For my other socials, check my [Bio.link](https://bio.link/davewragg), as they're bound to keep changing while this nonsense persists.
+You can find me on BlueSky at [@davewragg.com](https://bsky.app/profile/davewragg.com). For my other socials, check my [Bio.link](https://bio.link/davewragg).
 
 For anything rights-related, I'm represented by <a href="http://www.dhhliteraryagency.com/harry-illingworth.html">Harry Illingworth</a> at the DHH Literary Agency. For anything else, try the form at the very bottom of the page.
 
@@ -32,15 +32,15 @@ Are you Dave or David?
 
 > Depends who you ask. I'll answer to either.
 
-When is The Hunters out?
-
-> July 2023 for hardback, audio and ebook, July 2024 for paperback.
-
 When is The Company of the Wolf out?
 
-> August 2024 for hardback and ebook, October 2024 for audiobook, presumed August 2025 for paperback.
+> August 2024 for hardback and ebook, October 2024 for audiobook, July 2025 for paperback.
 
-Is the new series a sequel to Articles of Faith?
+When is The Iron Road out?
+
+> September 2025 for hardback, ebook, and audio, presumed August 2026 for paperback.
+
+Is Tales of the Plains a sequel to Articles of Faith?
 
 > It's set in the same world, 13 years after the events of The Righteous, but can be read completely standalone - although there might be one or two characters who pop up in both.
 
@@ -51,6 +51,14 @@ Who did the covers for the books?
 Will there be a book 3 for Articles of Faith? (A Black Hawks III, Righteous II etc)
 
 > Short answer: Not for now; the series is complete at two books. That said, I do know exactly what happens next, so maybe if the commercial demand were _enormous_ ... Never say never.
+
+Where can I get signed copies of your books?
+
+> You can still get the odd first edition from [Goldsboro Books](https://goldsborobooks.com/search?q=david+wragg&options%5Bprefix%5D=last), and [the Broken Binding](https://www.thebrokenbinding.co.uk/search-results?q=david+wragg) usually have stock
+
+How tall are you really?
+
+> Roughly 198cm, depending on sock thickness
 
 ## Press resources
 
@@ -64,10 +72,11 @@ _Warning: these lads are large_
 - [High-res Righteous cover](/images/press/TheRighteous-cover.jpg)
 - [High-res Hunters cover](/images/press/TheHunters-cover.jpg)
 - [High-res Company of the Wolf cover](/images/press/TheCompanyOfTheWolf-cover.jpg)
+- [High-res Iron Road cover](/images/press/TheIronRoad-cover.jpg)
 
 ### Official bio
 
-> David Wragg is the author of the Articles of Faith series and the Tales of the Plains trilogy. He lives in Hertfordshire, UK, with his family and an increasing number of animals.
+> David Wragg is the author of the Articles of Faith series and the Tales of the Plains trilogy. He lives in Hertfordshire, UK, with his family and an increasing number of animals, and hits his head on low doorways.
 
 ---
 

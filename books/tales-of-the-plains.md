@@ -5,7 +5,7 @@ description: The adventures of Ree and Javani
 image: /images/hunters-cover-large.jpg
 sitemap:
   priority: 0.9
-  lastmod: 2024-06-04
+  lastmod: 2025-01-25
   changefreq: monthly
 ---
 
@@ -83,6 +83,43 @@ With winter approaching and a vengeful company of mercenaries circling like wolv
 
 ---
 
+<a href="/images/iron-road-cover-large.webp"><span class="image left book"><img src="{{ "/images/iron-road-cover.jpg" | absolute_url }}" alt="The Iron Road cover" /></span><a>
+
+## The Iron Road (September 2025)
+
+**The unmissable final instalment in the epic Tales of the Plains trilogy from the master of modern fantasy, David Wragg.**
+
+_Rebellion’s about the journey, not the destination._
+
+Ree is at war. Determined to free the townships from the Guild's larcenous rule, she can’t take her eyes off victory. Not now, with the scent of blood in the air. Not for her consort, not even for her kid.
+
+Javani is ready for her own adventures. She’s no longer a child and determined to blaze her own trail, even if that means leaving Ree behind.
+
+With rebellion stirring, the past Ree's been running from and the future Javani’s striving for will collide. As tensions rise between mother and daughter, Guild and rebels - and with the fate of the Plains on the line - all that's certain is an explosive finale on the Iron Road.
+
+<!-- **First edition hardback**: [Goldsboro Books](https://goldsborobooks.com/) tbd-->
+
+<!-- **Audiobook**: [Audible.co.uk](https://www.audible.co.uk/) tbd -->
+
+<!-- **Signed copies**: [The Broken Binding](https://www.thebrokenbinding.co.uk/) tbd -->
+
+<!-- \| [Amazon US]() tbd -->
+<!-- \| [Amazon CA]() tbd -->
+
+**Order now**: [Amazon UK](https://www.amazon.co.uk/dp/0008533822/)
+\| [Amazon AU](https://www.amazon.com.au/gp/product/B0DW2BXPXK)
+\| [Blackwells](https://blackwells.co.uk/bookshop/product/9780008533823)
+\| [Bookshop.org](https://uk.bookshop.org/p/books/the-iron-road-david-wragg/7751454?ean=9780008533823)
+\| [Foyles](https://www.foyles.co.uk/book/the-iron-road/david-wragg/9780008533823)
+\| [Google Play](https://play.google.com/store/books/details/David_Wragg_The_Iron_Road_Tales_of_the_Plains_Book?id=lxREEQAAQBAJ&hl=en_GB)
+\| [Waterstones](https://www.waterstones.com/book/9780008533823)
+
+<!-- \| [Hive]() tbd -->
+
+[Find my local bookshop (UK)](http://www.booksellers.org.uk/bookshopsearch)
+
+---
+
 ## Resources
 
 - [Maps!](/blog/maps)
@@ -138,7 +175,7 @@ _'A story about growing up, growing old, dreams, betrayal, greed and consequence
 Peter Newman, Gemmell Award-winning author of THE VAGRANT and THE DEATHLESS
 
 _'Diamond wit, blade-sharp dialogue and a cast of characters so compelling I’d give my right hand to save them were they real… this is not just Wragg’s best book, but everything I adore about modern fantasy in one volume.'_  
-Ed Crocker, author of Epic fantasy trilogy LIGHTFALL
+Ed Crocker, author of the epic fantasy EVERLANDS trilogy
 
 _'Wragg's brand of fantasy deserves its own name: grassroots fantasy. Small in scale, large in heart, with underdog heroes you can't help but root for.'_  
 Amber A. Logan, author of THE SECRET GARDEN OF YANAGI INN
