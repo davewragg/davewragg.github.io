@@ -97,17 +97,17 @@ Javani is ready for her own adventures. She’s no longer a child and determined
 
 With rebellion stirring, the past Ree's been running from and the future Javani’s striving for will collide. As tensions rise between mother and daughter, Guild and rebels - and with the fate of the Plains on the line - all that's certain is an explosive finale on the Iron Road.
 
-<!-- **First edition hardback**: [Goldsboro Books](https://goldsborobooks.com/) tbd-->
+**First edition hardback**: [Goldsboro Books](https://goldsborobooks.com/products/the-iron-road)
 
 <!-- **Audiobook**: [Audible.co.uk](https://www.audible.co.uk/) tbd -->
 
 <!-- **Signed copies**: [The Broken Binding](https://www.thebrokenbinding.co.uk/) tbd -->
 
 <!-- \| [Amazon US]() tbd -->
-<!-- \| [Amazon CA]() tbd -->
 
 **Order now**: [Amazon UK](https://www.amazon.co.uk/dp/0008533822/)
 \| [Amazon AU](https://www.amazon.com.au/gp/product/B0DW2BXPXK)
+\| [Amazon CA](https://www.amazon.ca/Iron-Road-modern-fantasy-finale-ebook/dp/B0DW2BXPXK)
 \| [Blackwells](https://blackwells.co.uk/bookshop/product/9780008533823)
 \| [Bookshop.org](https://uk.bookshop.org/p/books/the-iron-road-david-wragg/7751454?ean=9780008533823)
 \| [Foyles](https://www.foyles.co.uk/book/the-iron-road/david-wragg/9780008533823)
