@@ -104,10 +104,10 @@ With rebellion stirring, the past Ree's been running from and the future Javaniâ
 <!-- **Signed copies**: [The Broken Binding](https://www.thebrokenbinding.co.uk/) tbd -->
 
 <!-- \| [Amazon US]() tbd -->
-<!-- \| [Amazon CA]() tbd -->
 
 **Order now**: [Amazon UK](https://www.amazon.co.uk/dp/0008533822/)
 \| [Amazon AU](https://www.amazon.com.au/gp/product/B0DW2BXPXK)
+\| [Amazon CA](https://www.amazon.ca/Iron-Road-modern-fantasy-finale-ebook/dp/B0DW2BXPXK)
 \| [Blackwells](https://blackwells.co.uk/bookshop/product/9780008533823)
 \| [Bookshop.org](https://uk.bookshop.org/p/books/the-iron-road-david-wragg/7751454?ean=9780008533823)
 \| [Foyles](https://www.foyles.co.uk/book/the-iron-road/david-wragg/9780008533823)
