@@ -99,9 +99,9 @@ With rebellion stirring, the past Ree's been running from and the future Javaniâ
 
 **First edition hardback**: [Goldsboro Books](https://goldsborobooks.com/products/the-iron-road)
 
-<!-- **Audiobook**: [Audible.co.uk](https://www.audible.co.uk/) tbd -->
+**Audiobook**: [Many places](https://harpercollins.co.uk/products/the-iron-road-tales-of-the-plains-book-3-david-wragg?variant=53513128640891)
 
-<!-- **Signed copies**: [The Broken Binding](https://www.thebrokenbinding.co.uk/) tbd -->
+**Signed copies**: [The Broken Binding](https://www.thebrokenbinding.co.uk/product-page/the-iron-road-hb-david-wragg)
 
 <!-- \| [Amazon US]() tbd -->
 
