@@ -101,7 +101,7 @@ With rebellion stirring, the past Ree's been running from and the future Javaniâ
 
 <!-- **Audiobook**: [Audible.co.uk](https://www.audible.co.uk/) tbd -->
 
-<!-- **Signed copies**: [The Broken Binding](https://www.thebrokenbinding.co.uk/) tbd -->
+**Signed copies**: [The Broken Binding](https://www.thebrokenbinding.co.uk/product-page/the-iron-road-hb-david-wragg)
 
 <!-- \| [Amazon US]() tbd -->
 
