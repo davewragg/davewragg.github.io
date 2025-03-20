@@ -7,7 +7,7 @@ image: /images/uploads/iron-road-cover-cropped.jpg
 ---
 ## Mark your calendars
 
-T﻿he [cover is revealed](https://fantasy-hive.co.uk/2025/02/the-iron-road-by-david-wragg-cover-reveal/). The [blurb is out](https://harpercollins.co.uk/products/the-iron-road-tales-of-the-plains-book-3-david-wragg?variant=53513128608123). The [pre-order links are up](https://www.davewragg.com/books/tales-of-the-plains#the-iron-road-september-2025). Book 3 of the Tales of the Plains, **The Iron Road**, arrives this September (2025, history fans), in hardback, ebook and audio.
+T﻿he [cover is revealed](https://fantasy-hive.co.uk/2025/02/the-iron-road-by-david-wragg-cover-reveal/). The [blurb is out](https://harpercollins.co.uk/products/the-iron-road-tales-of-the-plains-book-3-david-wragg?variant=53513128608123). The [pre-order links are up](https://www.davewragg.com/books/tales-of-the-plains#the-iron-road-september-2025). Book 3 of *Tales of the Plains*, **The Iron Road**, arrives this September (2025, history fans), in hardback, ebook and audio.
 
 ## What's it all about, then?
 
