@@ -23,9 +23,9 @@ T﻿his being book 3, we'll be seeing a few familiar characters from the trilogy
 
 Y﻿ou don't need to have read **The Black Hawks** and **The Righteous**, but if you have, you might spot a few extras along the way. And you can always go back and read them afterwards, which might be quite rewarding.
 
-## W﻿ill there be a Previously On...?
+## W﻿ill there be a Story So Far?
 
-Y﻿es! There will be a Story So Far section at the start of the book! I even capitalised the names that you need to pay attention to.
+Y﻿es! There will be a Previously On... section at the start of the book! I even capitalised the names that you need to pay attention to.
 
 ## A﻿ny special editions?
 
