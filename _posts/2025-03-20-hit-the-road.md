@@ -25,8 +25,12 @@ Y﻿ou don't need to have read **The Black Hawks** and **The Righteous**, but if
 
 ## W﻿ill there be a Previously On...?
 
-Y﻿es! There will be a Story So Far section at the start of the book! I even capitalised the names that you need to remember.
+Y﻿es! There will be a Story So Far section at the start of the book! I even capitalised the names that you need to pay attention to.
 
 ## A﻿ny special editions?
 
 G﻿oldsboro Books will be offering a [signed first edition](https://goldsborobooks.com/products/the-iron-road) as before, and we may just have something cooking elsewhere too. Watch this space...
+
+## Will there be any more books in the world of Ree, Javani, Chel and co?
+
+W﻿ell, never say never, but for now the series is complete, and with it, the stories I wanted to tell in this world, going all the way back to **The Black Hawks**. And while that book was first published in 2019, I'd wrote the first draft of it in 2015, and had been kicking around ideas for the story and setting since not long after my wedding in 2009. I've spent a very long time living these characters, and the world around them, and I think it's safe to say that what comes next will be a bit of a departure!
