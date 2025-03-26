@@ -76,7 +76,9 @@ _Warning: these lads are large_
 
 ### Official bio
 
-> David Wragg is the author of the Articles of Faith series and the Tales of the Plains trilogy. He lives in Hertfordshire, UK, with his family and an increasing number of animals, and hits his head on low doorways.
+> David Wragg is the author of the Articles of Faith series and the Tales of the Plains trilogy. He lives in Hertfordshire, UK, with his family and an increasing number of animals, and bumps his head on low doorways.
+> 
+> You can find him on various social media at bio.link/davewragg, or visit his website at www.davewragg.com.
 
 ---
 
