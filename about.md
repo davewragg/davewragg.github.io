@@ -32,13 +32,9 @@ Are you Dave or David?
 
 > Depends who you ask. I'll answer to either.
 
-When is The Company of the Wolf out?
-
-> August 2024 for hardback and ebook, October 2024 for audiobook, July 2025 for paperback.
-
 When is The Iron Road out?
 
-> September 2025 for hardback, ebook, and audio, presumed August 2026 for paperback.
+> September 2025 for hardback, ebook, November 2025 for audiobook, July 2026 for paperback.
 
 Is Tales of the Plains a sequel to Articles of Faith?
 
@@ -54,7 +50,7 @@ Will there be a book 3 for Articles of Faith? (A Black Hawks III, Righteous II e
 
 Where can I get signed copies of your books?
 
-> You can still get the odd first edition from [Goldsboro Books](https://goldsborobooks.com/search?q=david+wragg&options%5Bprefix%5D=last), and [the Broken Binding](https://www.thebrokenbinding.co.uk/search-results?q=david+wragg) usually have stock
+> You can still get the odd first edition from [Goldsboro Books](https://goldsborobooks.com/search?q=david+wragg&options%5Bprefix%5D=last), and [the Broken Binding](https://www.thebrokenbinding.co.uk/search-results?q=david+wragg) usually have stock. You can also grab a [special edition box set of Tales of the Plains](https://thebrokenbindingsub.com/products/tales-of-the-plains) while stocks last.
 
 How tall are you really?
 

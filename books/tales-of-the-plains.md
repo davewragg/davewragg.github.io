@@ -11,6 +11,12 @@ sitemap:
 
 # Tales of the Plains
 
+> ## SPECIAL EDITION SETS
+> 
+> Special edition boxed sets of the entire trilogy from The Broken Binding are available now in strictly limited numbers.
+>
+> [Get them while you can!](https://thebrokenbindingsub.com/products/tales-of-the-plains)
+
 <a href="/images/hunters-cover-large.jpg"><span class="image left book"><img src="{{ "/images/hunters-cover.jpg" | absolute_url }}" alt="The Hunters cover" /></span><a>
 
 ## The Hunters (July 2023)
@@ -103,18 +109,16 @@ With rebellion stirring, the past Ree's been running from and the future Javaniâ
 
 **Signed copies**: [The Broken Binding](https://www.thebrokenbinding.co.uk/product-page/the-iron-road-hb-david-wragg)
 
-<!-- \| [Amazon US]() tbd -->
-
 **Order now**: [Amazon UK](https://www.amazon.co.uk/dp/0008533822/)
+\| [Amazon US](https://www.amazon.com/Iron-Road-modern-fantasy-finale-ebook/dp/B0DW2BXPXK/ref=sr_1_1)
 \| [Amazon AU](https://www.amazon.com.au/gp/product/B0DW2BXPXK)
 \| [Amazon CA](https://www.amazon.ca/Iron-Road-modern-fantasy-finale-ebook/dp/B0DW2BXPXK)
 \| [Blackwells](https://blackwells.co.uk/bookshop/product/9780008533823)
 \| [Bookshop.org](https://uk.bookshop.org/p/books/the-iron-road-david-wragg/7751454?ean=9780008533823)
 \| [Foyles](https://www.foyles.co.uk/book/the-iron-road/david-wragg/9780008533823)
 \| [Google Play](https://play.google.com/store/books/details/David_Wragg_The_Iron_Road_Tales_of_the_Plains_Book?id=lxREEQAAQBAJ&hl=en_GB)
+\| [Hive](https://www.hive.co.uk/Product/David-Wragg/The-Iron-Road/31022342)
 \| [Waterstones](https://www.waterstones.com/book/9780008533823)
-
-<!-- \| [Hive]() tbd -->
 
 [Find my local bookshop (UK)](http://www.booksellers.org.uk/bookshopsearch)
 
