@@ -42,7 +42,7 @@ Is Tales of the Plains a sequel to Articles of Faith?
 
 What order should I read your books in? Do I need to read Articles of Faith before Tales of the Plains?
 
-> You can read either series standalone, but to get the fullest experience, I'd suggest reading the books in order from the very start: The Black Hawks, The Righteous, The Hunters, The Company of the Wolf, and finally The Iron Road. That way you'll get all the easter eggs.
+> You can read either series standalone, but to get the fullest experience, I'd suggest reading the books in order from the very start: The Black Hawks, The Righteous, The Hunters, The Company of the Wolf, and finally The Iron Road. That way you'll get all the easter eggs.  
 > If you only wanted to read a single book of mine, I'd suggest The Company of the Wolf - it can be read completely independently of the rest of the works, and it's also pretty bloody good.
 
 Who did the covers for the books?
