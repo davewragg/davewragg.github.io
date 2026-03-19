@@ -5,7 +5,7 @@ description: If you are curious, God help you
 image: /images/my-goddam-face.jpg
 sitemap:
   priority: 0.7
-  lastmod: 2025-01-25
+  lastmod: 2025-03-19
   changefreq: weekly
 ---
 
@@ -34,11 +34,17 @@ Are you Dave or David?
 
 When is The Iron Road out?
 
-> September 2025 for hardback, ebook, November 2025 for audiobook, July 2026 for paperback.
+> Now in hardback, ebook and audio, July 2026 for paperback.
 
 Is Tales of the Plains a sequel to Articles of Faith?
 
 > It's set in the same world, 13 years after the events of The Righteous, but can be read completely standalone - although there might be one or two characters who pop up in both.
+
+What order should I read your books in? Do I need to read Articles of Faith before Tales of the Plains?
+
+> You can read either series standalone, but to get the fullest experience, I'd suggest reading the books in order from the very start: The Black Hawks, The Righteous, The Hunters, The Company of the Wolf, and finally The Iron Road. That way you'll get all the easter eggs.
+> 
+> If you only wanted to read a single book of mine, I'd suggest The Company of the Wolf - it can be read completely independently of the rest of the works, and it's also pretty bloody good.
 
 Who did the covers for the books?
 
