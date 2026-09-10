@@ -14,11 +14,11 @@ sitemap:
 
 ## About me
 
-I'm Dave Wragg. Hello. I'm from the UK, and have had many jobs. Most of them involved computers. I'm getting on a bit now, and I live in Hertfordshire. I live with cats, a dog, rabbits, and children.
+I'm Dave Wragg. Hello. I'm from the UK, and have had many jobs. Most of them involved computers. I'm getting on a bit now, and I live in Hertfordshire. I live with a cat, dogs, rabbits, and children.
 
 ## Contact me
 
-You can find me on BlueSky at [@davewragg.com](https://bsky.app/profile/davewragg.com). For my other socials, check my [Bio.link](https://bio.link/davewragg).
+You can find me on Bluesky at [@davewragg.com](https://bsky.app/profile/davewragg.com). For my other socials, check my [Bio.link](https://bio.link/davewragg).
 
 For anything rights-related, I'm represented by <a href="http://www.dhhliteraryagency.com/harry-illingworth.html">Harry Illingworth</a> at the DHH Literary Agency. For anything else, try the form at the very bottom of the page.
 
@@ -34,7 +34,7 @@ Are you Dave or David?
 
 When is The Iron Road out?
 
-> Now in hardback, ebook and audio, July 2026 for paperback.
+> Now!
 
 Is Tales of the Plains a sequel to Articles of Faith?
 
@@ -78,7 +78,7 @@ _Warning: these lads are large_
 
 ### Official bio
 
-> David Wragg is the author of the Articles of Faith series and the Tales of the Plains trilogy. He lives in Hertfordshire, UK, with his family and an increasing number of animals, and bumps his head on low doorways.
+> David Wragg is the author of the Articles of Faith series and the Tales of the Plains trilogy. He lives in Hertfordshire UK with his family and an increasing number of animals, and bumps his head on low doorways.
 > 
 > You can find him on various social media at bio.link/davewragg, or visit his website at www.davewragg.com.
 
